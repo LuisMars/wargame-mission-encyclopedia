@@ -1,0 +1,166 @@
+---
+layout: default
+---
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.i18n[lang] %}
+{% assign path_parts = page.path | split: "/" %}
+{% assign family_id = path_parts[1] %}
+
+{% comment %}── Pre-resolve default-language values for display ──{% endcomment %}
+{% assign family_name = "" %}
+{% for fam in site.data.taxonomy.families %}
+  {% if fam.id == family_id %}{% assign family_name = fam.name[lang] %}{% endif %}
+{% endfor %}
+
+{% assign intent_val = page.intent.primary %}
+{% assign intent_text = "" %}
+{% for branch in site.data.taxonomy.intent %}
+  {% if branch.id == intent_val %}{% assign intent_text = branch.name[lang] %}{% endif %}
+  {% if branch.children %}{% for leaf in branch.children %}{% if leaf.id == intent_val %}{% assign intent_text = branch.name[lang] | append: " › " | append: leaf.name[lang] %}{% endif %}{% endfor %}{% endif %}
+{% endfor %}
+{% if page.intent.secondary %}
+  {% assign sec_val = page.intent.secondary %}
+  {% assign sec_text = "" %}
+  {% for branch in site.data.taxonomy.intent %}
+    {% if branch.id == sec_val %}{% assign sec_text = branch.name[lang] %}{% endif %}
+    {% if branch.children %}{% for leaf in branch.children %}{% if leaf.id == sec_val %}{% assign sec_text = leaf.name[lang] %}{% endif %}{% endfor %}{% endif %}
+  {% endfor %}
+  {% assign intent_text = intent_text | append: " / " | append: sec_text %}
+{% endif %}
+
+{% assign inter_val = page.interaction.primary %}
+{% assign interaction_text = "" %}
+{% for branch in site.data.taxonomy.interaction %}
+  {% if branch.id == inter_val %}{% assign interaction_text = branch.name[lang] %}{% endif %}
+  {% if branch.children %}{% for leaf in branch.children %}{% if leaf.id == inter_val %}{% assign interaction_text = branch.name[lang] | append: " › " | append: leaf.name[lang] %}{% endif %}{% endfor %}{% endif %}
+{% endfor %}
+
+{% assign victory_text = "" %}
+{% for c in site.data.taxonomy.victory.cadence %}{% if c.id == page.victory.cadence %}{% assign victory_text = c.name[lang] %}{% endif %}{% endfor %}
+{% for w in site.data.taxonomy.victory.win_form %}{% if w.id == page.victory.win_form %}{% assign victory_text = victory_text | append: " / " | append: w.name[lang] %}{% endif %}{% endfor %}
+
+{% assign info_val = page.information.primary %}
+{% assign info_text = "" %}
+{% for branch in site.data.taxonomy.information %}
+  {% if branch.id == info_val %}{% assign info_text = branch.name[lang] %}{% endif %}
+  {% if branch.children %}{% for leaf in branch.children %}{% if leaf.id == info_val %}{% assign info_text = branch.name[lang] | append: " › " | append: leaf.name[lang] %}{% endif %}{% endfor %}{% endif %}
+{% endfor %}
+
+{% assign match_text = "" %}
+{% for p in site.data.taxonomy.match.player_count %}{% if p.id == page.match.player_count %}{% assign match_text = p.name[lang] %}{% endif %}{% endfor %}
+{% if page.match.symmetry %}{% for s in site.data.taxonomy.match.symmetry %}{% if s.id == page.match.symmetry %}{% assign match_text = match_text | append: " / " | append: s.name[lang] %}{% endif %}{% endfor %}{% endif %}
+
+{% assign spatial_text = "" %}
+{% for top in site.data.taxonomy.spatial.topology %}{% if top.id == page.spatial.topology %}{% assign spatial_text = top.name[lang] %}{% endif %}{% endfor %}
+{% for ori in site.data.taxonomy.spatial.orientation %}{% if ori.id == page.spatial.orientation %}{% assign spatial_text = spatial_text | append: " · " | append: ori.name[lang] %}{% endif %}{% endfor %}
+{% for dyn in site.data.taxonomy.spatial.dynamism %}{% if dyn.id == page.spatial.dynamism %}{% assign spatial_text = spatial_text | append: " · " | append: dyn.name[lang] %}{% endif %}{% endfor %}
+
+<article class="archetype-detail">
+  <div class="detail-layout">
+    <div class="detail-main">
+      <div class="detail-card">
+        <header class="detail-header">
+          <span class="detail-family-badge" style="background: var(--fam-{{ family_id }})" data-i18n="page:family_name">{{ family_name }}</span>
+          <h1 id="archetype-title" data-i18n="page:archetype_title">{{ page.name[lang] }}</h1>
+          <p class="summary" id="archetype-summary" data-i18n="page:archetype_summary">{{ page.summary[lang] }}</p>
+        </header>
+
+        <div class="archetype-body">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    <div class="detail-sidebar">
+      <aside class="meta-panel">
+        <dl>
+          <div class="meta-item">
+            <dt data-i18n="intent_label">{{ t.intent_label }}</dt>
+            <dd data-i18n="page:intent_text">{{ intent_text }}</dd>
+          </div>
+          <div class="meta-item">
+            <dt data-i18n="interaction_label">{{ t.interaction_label }}</dt>
+            <dd data-i18n="page:interaction_text">{{ interaction_text }}</dd>
+          </div>
+          <div class="meta-item">
+            <dt data-i18n="victory_label">{{ t.victory_label }}</dt>
+            <dd data-i18n="page:victory_text">{{ victory_text }}</dd>
+          </div>
+          <div class="meta-item">
+            <dt data-i18n="information_label">{{ t.information_label }}</dt>
+            <dd data-i18n="page:info_text">{{ info_text }}</dd>
+          </div>
+          <div class="meta-item">
+            <dt data-i18n="match_label">{{ t.match_label }}</dt>
+            <dd data-i18n="page:match_text">{{ match_text }}</dd>
+          </div>
+          <div class="meta-item">
+            <dt data-i18n="spatial_label">{{ t.spatial_label }}</dt>
+            <dd data-i18n="page:spatial_text">{{ spatial_text }}</dd>
+          </div>
+          <div class="meta-item">
+            <dt data-i18n="tags_label">{{ t.tags_label }}</dt>
+            <dd data-i18n-html="page:tags_html">
+              {% for tag_id in page.tags %}{% for tax_tag in site.data.taxonomy.tags %}{% if tax_tag.id == tag_id %}<span class="tag">{{ tax_tag.name[lang] }}</span>{% endif %}{% endfor %}{% endfor %}
+            </dd>
+          </div>
+        </dl>
+      </aside>
+    </div>
+  </div>
+
+  {% assign related_count = 0 %}
+  {% assign related_cards = "" %}
+  {% for archetype in site.archetypes %}
+    {% if related_count < 3 %}
+      {% assign rel_parts = archetype.path | split: "/" %}
+      {% assign rel_family = rel_parts[1] %}
+      {% if rel_family == family_id %}
+        {% if archetype.url != page.url %}
+          {% assign related_count = related_count | plus: 1 %}
+          {% capture card_html %}
+      <a href="{{ archetype.url | relative_url }}" class="archetype-card" data-family="{{ rel_family }}">
+        <span class="card-family" data-i18n="page:rel{{ related_count }}_family">{{ family_name }}</span>
+        <h2 class="card-title" data-i18n="page:rel{{ related_count }}_title">{{ archetype.name[lang] }}</h2>
+        <p class="card-summary" data-i18n="page:rel{{ related_count }}_summary">{{ archetype.summary[lang] }}</p>
+      </a>
+          {% endcapture %}
+          {% assign related_cards = related_cards | append: card_html %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {% if related_count > 0 %}
+  <section class="related-section">
+    <h2 data-i18n="related_archetypes">{{ t.related_archetypes }}</h2>
+    <div class="related-grid">
+      {{ related_cards }}
+    </div>
+  </section>
+  {% endif %}
+</article>
+
+{% comment %}── Page-level translation dictionary (all languages) ──{% endcomment %}
+<script type="application/json" id="page-dict">
+{
+  {% for l in site.data.i18n %}{% assign lk = l[0] %}
+  "{{ lk }}": {
+    "archetype_title": {{ page.name[lk] | jsonify }},
+    "archetype_summary": {{ page.summary[lk] | jsonify }},
+    "family_name": "{% for fam in site.data.taxonomy.families %}{% if fam.id == family_id %}{{ fam.name[lk] }}{% endif %}{% endfor %}",
+    "intent_text": "{% for branch in site.data.taxonomy.intent %}{% if branch.id == intent_val %}{{ branch.name[lk] }}{% endif %}{% if branch.children %}{% for leaf in branch.children %}{% if leaf.id == intent_val %}{{ branch.name[lk] }} › {{ leaf.name[lk] }}{% endif %}{% endfor %}{% endif %}{% endfor %}{% if page.intent.secondary %} / {% for branch in site.data.taxonomy.intent %}{% if branch.id == sec_val %}{{ branch.name[lk] }}{% endif %}{% if branch.children %}{% for leaf in branch.children %}{% if leaf.id == sec_val %}{{ leaf.name[lk] }}{% endif %}{% endfor %}{% endif %}{% endfor %}{% endif %}",
+    "interaction_text": "{% for branch in site.data.taxonomy.interaction %}{% if branch.id == inter_val %}{{ branch.name[lk] }}{% endif %}{% if branch.children %}{% for leaf in branch.children %}{% if leaf.id == inter_val %}{{ branch.name[lk] }} › {{ leaf.name[lk] }}{% endif %}{% endfor %}{% endif %}{% endfor %}",
+    "victory_text": "{% for c in site.data.taxonomy.victory.cadence %}{% if c.id == page.victory.cadence %}{{ c.name[lk] }}{% endif %}{% endfor %} / {% for w in site.data.taxonomy.victory.win_form %}{% if w.id == page.victory.win_form %}{{ w.name[lk] }}{% endif %}{% endfor %}",
+    "info_text": "{% for branch in site.data.taxonomy.information %}{% if branch.id == info_val %}{{ branch.name[lk] }}{% endif %}{% if branch.children %}{% for leaf in branch.children %}{% if leaf.id == info_val %}{{ branch.name[lk] }} › {{ leaf.name[lk] }}{% endif %}{% endfor %}{% endif %}{% endfor %}",
+    "match_text": "{% for p in site.data.taxonomy.match.player_count %}{% if p.id == page.match.player_count %}{{ p.name[lk] }}{% endif %}{% endfor %}{% if page.match.symmetry %} / {% for s in site.data.taxonomy.match.symmetry %}{% if s.id == page.match.symmetry %}{{ s.name[lk] }}{% endif %}{% endfor %}{% endif %}",
+    "spatial_text": "{% for top in site.data.taxonomy.spatial.topology %}{% if top.id == page.spatial.topology %}{{ top.name[lk] }}{% endif %}{% endfor %} · {% for ori in site.data.taxonomy.spatial.orientation %}{% if ori.id == page.spatial.orientation %}{{ ori.name[lk] }}{% endif %}{% endfor %} · {% for dyn in site.data.taxonomy.spatial.dynamism %}{% if dyn.id == page.spatial.dynamism %}{{ dyn.name[lk] }}{% endif %}{% endfor %}",
+    "tags_html": "{% for tag_id in page.tags %}{% for tax_tag in site.data.taxonomy.tags %}{% if tax_tag.id == tag_id %}<span class=\"tag\">{{ tax_tag.name[lk] }}</span>{% endif %}{% endfor %}{% endfor %}",
+    "footer_line": "{{ l[1].site_title }} — {{ l[1].footer_tagline }}",{% for fam in site.data.taxonomy.families %}
+    "fam_{{ fam.id }}": "{{ fam.name[lk] }}"{% unless forloop.last %},{% endunless %}{% endfor %}{% assign rc = 0 %}{% for archetype in site.archetypes %}{% if rc < 3 %}{% assign rp = archetype.path | split: "/" %}{% assign rf = rp[1] %}{% if rf == family_id %}{% if archetype.url != page.url %}{% assign rc = rc | plus: 1 %},
+    "rel{{ rc }}_family": "{% for fam in site.data.taxonomy.families %}{% if fam.id == rf %}{{ fam.name[lk] }}{% endif %}{% endfor %}",
+    "rel{{ rc }}_title": {{ archetype.name[lk] | jsonify }},
+    "rel{{ rc }}_summary": {{ archetype.summary[lk] | jsonify }}{% endif %}{% endif %}{% endif %}{% endfor %}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+}
+</script>

@@ -1,0 +1,35 @@
+title: Wargame Mission Encyclopedia
+description: A system-neutral catalog of mission archetypes for tabletop wargames
+baseurl: ""
+lang: en
+
+collections:
+  archetypes:
+    output: true
+    permalink: /archetypes/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "archetypes"
+    values:
+      layout: "archetype"
+  - scope:
+      path: "es"
+    values:
+      lang: "es"
+  - scope:
+      path: ""
+    values:
+      lang: "en"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - .claude

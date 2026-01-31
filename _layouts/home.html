@@ -1,0 +1,86 @@
+---
+layout: default
+---
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.i18n[lang] %}
+{% assign sorted = site.archetypes | sort: "path" %}
+
+<section class="index-intro">
+  <p class="index-subtitle">{{ t.site_subtitle }}</p>
+</section>
+
+<section class="filter-bar" id="filter-bar">
+  <div class="family-pills" id="family-pills">
+    <button class="family-pill active" data-family="all">{{ t.all_filter }}</button>
+    {% for fam in site.data.taxonomy.families %}
+    <button class="family-pill" data-family="{{ fam.id }}">
+      <span class="pill-dot"></span>
+      {{ fam.name[lang] }}
+    </button>
+    {% endfor %}
+  </div>
+  <div class="filter-row">
+    <div class="filter-group">
+      <label for="tag-filter">{{ t.filter_by_tag }}</label>
+      <select id="tag-filter">
+        <option value="all">{{ t.all_tags }}</option>
+        {% for tag in site.data.taxonomy.tags %}
+        <option value="{{ tag.id }}">{{ tag.name[lang] }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group search-group">
+      <label for="search-input">{{ t.search_placeholder }}</label>
+      <input type="text" id="search-input" placeholder="{{ t.search_placeholder }}">
+    </div>
+    <p class="result-count">
+      <strong id="count">{{ sorted | size }}</strong> {{ t.archetypes_found }}
+    </p>
+  </div>
+  <div class="active-chips" id="active-chips"></div>
+</section>
+
+<div class="no-results" id="no-results">
+  <p>{{ t.no_results }}</p>
+  <button id="clear-filters-btn">{{ t.clear_filters }}</button>
+</div>
+
+<section class="archetype-grid" id="archetype-grid">
+  {% for archetype in sorted %}
+  {% assign arch_parts = archetype.path | split: "/" %}
+  {% assign family_id = arch_parts[1] %}
+  <a href="{{ archetype.url | relative_url }}"
+     class="archetype-card"
+     data-family="{{ family_id }}"
+     data-tags="{{ archetype.tags | join: ',' }}"
+     data-match="{{ archetype.match.player_count }}{% if archetype.match.symmetry %} {{ archetype.match.symmetry }}{% endif %}"
+     data-search="{% for l in site.data.i18n %}{{ archetype.name[l[0]] | downcase }} {{ archetype.summary[l[0]] | downcase }} {% endfor %}">
+    <span class="card-family">
+      {% for fam in site.data.taxonomy.families %}
+        {% if fam.id == family_id %}{{ fam.name[lang] }}{% endif %}
+      {% endfor %}
+    </span>
+    <h2 class="card-title">{{ archetype.name[lang] }}</h2>
+    <p class="card-summary">{{ archetype.summary[lang] }}</p>
+    <div class="card-bottom">
+      <div class="card-tags">
+        {% for tag_id in archetype.tags %}
+          {% for tax_tag in site.data.taxonomy.tags %}
+            {% if tax_tag.id == tag_id %}
+        <span class="tag">{{ tax_tag.name[lang] }}</span>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+      {% if archetype.match.player_count %}
+      <span class="card-match">
+        {% for p in site.data.taxonomy.match.player_count %}
+          {% if p.id == archetype.match.player_count %}{{ p.name[lang] }}{% endif %}
+        {% endfor %}
+        {% if archetype.match.symmetry == "asymmetric" %} &#8651;{% endif %}
+      </span>
+      {% endif %}
+    </div>
+  </a>
+  {% endfor %}
+</section>

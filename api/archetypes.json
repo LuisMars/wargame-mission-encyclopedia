@@ -1,0 +1,20 @@
+---
+---
+[
+{% for a in site.archetypes %}  {
+    "id": {{ a.id | jsonify }},
+    "name_en": {{ a.name.en | jsonify }},
+    "name_es": {{ a.name.es | jsonify }},
+    "summary_en": {{ a.summary.en | jsonify }},
+    "summary_es": {{ a.summary.es | jsonify }},
+    "family": {{ a.id | split: "." | first | jsonify }},
+    "tags": {{ a.tags | jsonify }},
+    "url": {{ a.url | relative_url | jsonify }},
+    "intent": {{ a.intent.primary | jsonify }},
+    "interaction": {{ a.interaction.primary | jsonify }},
+    "victory_cadence": {{ a.victory.cadence | jsonify }},
+    "victory_win_form": {{ a.victory.win_form | jsonify }},
+    "match_symmetry": {{ a.match.symmetry | jsonify }},
+    "spatial_topology": {{ a.spatial.topology | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}]

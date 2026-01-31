@@ -1,0 +1,26 @@
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.i18n[lang] %}
+<header class="site-header">
+  <div class="header-inner container">
+    <a href="{% if lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="site-logo" data-i18n="site_title">
+      {{ t.site_title }}
+    </a>
+    {% if page.layout == 'archetype' %}
+    {% assign hdr_parts = page.path | split: "/" %}
+    {% assign family_id = hdr_parts[1] %}
+    <span class="header-breadcrumb">
+      <a href="{% if lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" data-i18n="catalog">{{ t.catalog }}</a>
+      <span class="sep">&rsaquo;</span>
+      <span data-i18n="page:family_name">{% for fam in site.data.taxonomy.families %}{% if fam.id == family_id %}{{ fam.name[lang] }}{% endif %}{% endfor %}</span>
+      <span class="sep">&rsaquo;</span>
+      <span data-i18n="page:archetype_title">{{ page.name[lang] }}</span>
+    </span>
+    {% endif %}
+    <nav class="header-controls">
+      <button id="theme-toggle" class="header-btn theme-toggle" aria-label="Toggle dark mode"></button>
+      <button id="lang-toggle" class="header-btn" data-lang="{{ lang }}">
+        {{ t.language_toggle }}
+      </button>
+    </nav>
+  </div>
+</header>

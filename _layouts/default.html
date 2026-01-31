@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include header.html %}
+  <main class="container">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  <script type="application/json" id="i18n-dict">{{ site.data.i18n | jsonify }}</script>
+  <script src="{{ '/assets/js/filter.js' | relative_url }}"></script>
+</body>
+</html>
