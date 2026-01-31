@@ -1,6 +1,6 @@
 title: Wargame Mission Encyclopedia
 description: A system-neutral catalog of mission archetypes for tabletop wargames
-baseurl: ""
+baseurl: "/wargame-mission-encyclopedia"
 lang: en
 
 collections:
