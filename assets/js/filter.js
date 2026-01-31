@@ -99,6 +99,11 @@
     });
   }
 
+  // On index pages, persist the current lang so detail pages inherit it
+  if (isIndexPage()) {
+    localStorage.setItem('wme-lang', document.documentElement.lang || 'en');
+  }
+
   // Restore saved language on detail pages
   var savedLang = localStorage.getItem('wme-lang');
   if (savedLang && langBtn && !isIndexPage()) {
