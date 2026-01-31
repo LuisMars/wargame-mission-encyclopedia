@@ -8,7 +8,7 @@ victory:
   cadence: progressive
   win_form: threshold
 information:
-  primary: hidden_info
+  primary: detection_alarm
 match:
   player_count: 1v1
   symmetry: asymmetric

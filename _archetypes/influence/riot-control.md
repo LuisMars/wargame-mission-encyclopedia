@@ -1,7 +1,7 @@
 ---
 id: influence.riot-control
 intent:
-  primary: civilian_influence
+  primary: crowd_control
 interaction:
   primary: presence_only
 victory:

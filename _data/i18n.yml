@@ -26,6 +26,9 @@ en:
   related_archetypes: "Related Archetypes"
   all_filter: "All"
   catalog: "Catalog"
+  archetypes_count: "archetypes"
+  browse_all: "Browse all families"
+  footer_contribute: "Contribute"
   footer_tagline: "System neutral. Community driven."
 
 es:
@@ -56,4 +59,7 @@ es:
   related_archetypes: "Arquetipos relacionados"
   all_filter: "Todos"
   catalog: "Catálogo"
-  footer_tagline: "Neutral al sistema. Impulsado por la comunidad."
+  archetypes_count: "arquetipos"
+  browse_all: "Explorar todas las familias"
+  footer_contribute: "Contribuir"
+  footer_tagline: "Agnóstico de reglamento. Impulsado por la comunidad."

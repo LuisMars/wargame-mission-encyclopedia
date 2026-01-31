@@ -51,12 +51,9 @@
     document.documentElement.lang = newLang;
     localStorage.setItem('wme-lang', newLang);
 
-    // Update toggle button: show next language code
+    // Update dropdown to reflect current language
     if (langBtn) {
-      var idx = langs.indexOf(newLang);
-      var nextLang = langs[(idx + 1) % langs.length];
-      langBtn.textContent = nextLang.toUpperCase();
-      langBtn.dataset.lang = newLang;
+      langBtn.value = newLang;
     }
 
     // Patch all [data-i18n] elements (textContent)
@@ -89,13 +86,10 @@
     });
   }
 
-  // Toggle button cycles through all languages in dictionary
+  // Language dropdown
   if (langBtn) {
-    langBtn.addEventListener('click', function () {
-      var currentLang = document.documentElement.lang || 'en';
-      var idx = langs.indexOf(currentLang);
-      var newLang = langs[(idx + 1) % langs.length];
-      setLanguage(newLang);
+    langBtn.addEventListener('change', function () {
+      setLanguage(langBtn.value);
     });
   }
 
@@ -123,7 +117,7 @@
   var pillContainer = $('family-pills');
 
   var cards = Array.prototype.slice.call(grid.querySelectorAll('.archetype-card'));
-  var pills = pillContainer ? Array.prototype.slice.call(pillContainer.querySelectorAll('.family-pill')) : [];
+  var pills = pillContainer ? Array.prototype.slice.call(pillContainer.querySelectorAll('.family-node')) : [];
 
   // State
   var state = { family: 'all', tag: 'all', query: '' };
@@ -210,7 +204,8 @@
 
     if (state.family !== 'all') {
       var pill = pillContainer.querySelector('[data-family="' + state.family + '"]');
-      var label = pill ? pill.textContent.trim() : state.family;
+      var nameEl = pill ? pill.querySelector('.family-node__name') : null;
+      var label = nameEl ? nameEl.textContent.trim() : state.family;
       addChip(label, function () { state.family = 'all'; applyFilters(); });
     }
 

@@ -1,7 +1,7 @@
 ---
 id: influence.bribe-the-neutrals
 intent:
-  primary: civilian_influence
+  primary: civilian_persuasion
 interaction:
   primary: interact_to_claim
 victory:

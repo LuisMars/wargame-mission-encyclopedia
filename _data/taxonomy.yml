@@ -200,7 +200,7 @@ interaction:
       - id: plant_defuse
         name: { en: Plant or Defuse, es: Colocar o desactivar }
   - id: carry_state
-    name: { en: Carry State, es: Estado de transporte }
+    name: { en: Carry State, es: Transporte }
     children:
       - id: pickup_drop
         name: { en: Pickup and Drop, es: Recoger y soltar }
@@ -241,7 +241,7 @@ interaction:
       - id: stealth_movement
         name: { en: Stealth Movement, es: Movimiento sigiloso }
       - id: alarm_management
-        name: { en: Alarm Management, es: "Gesti\xF3n de alarma" }
+        name: { en: Alarm Management, es: "Gesti\xF3n de alarmas" }
       - id: disguise_bluff
         name: { en: Disguise and Bluff, es: Disfraz y farol }
   - id: observation
@@ -273,11 +273,11 @@ victory:
     - id: sudden_death
       name: { en: Sudden Death, es: "Muerte s\xFAbita" }
     - id: threshold
-      name: { en: Threshold Completion, es: Completar umbral }
+      name: { en: Threshold Completion, es: Alcanzar umbral }
     - id: last_standing
       name: { en: Last Standing, es: "\xDAltimo en pie" }
     - id: binary
-      name: { en: Binary (pass/fail), es: Binario (exito/fracaso) }
+      name: { en: Binary (pass/fail), es: "Binario (\xE9xito/fracaso)" }
     - id: survival
       name: { en: Survival to Time Limit, es: "Supervivencia hasta l\xEDmite de tiempo" }
   caps:
@@ -346,7 +346,7 @@ match:
     - id: pvpve
       name: { en: PvPvE, es: JcJcE }
     - id: kingmaker
-      name: { en: Kingmaker Pressure, es: "Presi\xF3n de kingmaker" }
+      name: { en: Kingmaker Pressure, es: Efecto decisor }
 
 # ----------------------------------------------------------
 # Facet F — Spatial Structure  (how the board is used)
@@ -365,11 +365,11 @@ spatial:
     - id: midline
       name: { en: Midline, es: "L\xEDnea media" }
     - id: home_biased
-      name: { en: Home Biased, es: Sesgado hacia la base }
+      name: { en: Home Biased, es: Zona de despliegue }
     - id: extraction_edge
-      name: { en: Extraction Edge, es: "Borde de extracción" }
+      name: { en: Extraction Edge, es: "Borde de evacuaci\xF3n" }
     - id: deep_enemy
-      name: { en: Deep Enemy, es: Profundidad enemiga }
+      name: { en: Deep Enemy, es: Retaguardia enemiga }
     - id: linear_corridor
       name: { en: Linear Corridor, es: Corredor lineal }
   dynamism:
@@ -382,7 +382,7 @@ spatial:
     - id: spreading_hazard
       name: { en: Spreading Hazard, es: Peligro que se propaga }
     - id: escalating
-      name: { en: Escalating, es: Escalada }
+      name: { en: Escalating, es: Progresivo }
 
 # ----------------------------------------------------------
 # Tags  (cross-cutting quick-filter labels)

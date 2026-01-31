@@ -10,12 +10,18 @@ layout: default
 </section>
 
 <section class="filter-bar" id="filter-bar">
-  <div class="family-pills" id="family-pills">
-    <button class="family-pill active" data-family="all">{{ t.all_filter }}</button>
+  <div class="family-tree" id="family-pills">
+    <button class="family-node family-node--all active" data-family="all">
+      <span class="family-node__name">{{ t.all_filter }}</span>
+      <span class="family-node__count"><strong>{{ sorted | size }}</strong> {{ t.archetypes_count }}</span>
+      <span class="family-node__desc">{{ t.browse_all }}</span>
+    </button>
     {% for fam in site.data.taxonomy.families %}
-    <button class="family-pill" data-family="{{ fam.id }}">
-      <span class="pill-dot"></span>
-      {{ fam.name[lang] }}
+    {% assign fam_count = 0 %}{% for a in sorted %}{% assign ap = a.path | split: "/" %}{% if ap[1] == fam.id %}{% assign fam_count = fam_count | plus: 1 %}{% endif %}{% endfor %}
+    <button class="family-node" data-family="{{ fam.id }}">
+      <span class="family-node__name">{{ fam.name[lang] }}</span>
+      <span class="family-node__count"><strong>{{ fam_count }}</strong> {{ t.archetypes_count }}</span>
+      <span class="family-node__desc">{{ fam.description[lang] }}</span>
     </button>
     {% endfor %}
   </div>

@@ -7,6 +7,11 @@
       <a href="{% if lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}?family={{ fam.id }}" data-i18n="page:fam_{{ fam.id }}">{{ fam.name[lang] }}</a>
       {% endfor %}
     </div>
+    <p class="footer-links">
+      <a href="https://github.com/luismars/wargame-mission-encyclopedia" class="footer-link">GitHub</a>
+      <span class="footer-sep">&middot;</span>
+      <a href="https://github.com/luismars/wargame-mission-encyclopedia/blob/main/CONTRIBUTING.md" class="footer-link" data-i18n="footer_contribute">{{ t.footer_contribute }}</a>
+    </p>
     <p class="footer-text" data-i18n="page:footer_line">{{ t.site_title }} &mdash; {{ t.footer_tagline }}</p>
   </div>
 </footer>

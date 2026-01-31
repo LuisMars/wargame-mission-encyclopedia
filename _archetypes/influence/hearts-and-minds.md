@@ -1,7 +1,7 @@
 ---
 id: influence.hearts-and-minds
 intent:
-  primary: civilian_influence
+  primary: civilian_persuasion
 interaction:
   primary: interact_to_claim
 victory:

@@ -1,7 +1,7 @@
 ---
 id: influence.hostage-negotiation
 intent:
-  primary: civilian_influence
+  primary: negotiation
   secondary: prisoner_transfer
 interaction:
   primary: interact_to_claim
