@@ -27,14 +27,14 @@ tags: [contact-high, rules-med, asymmetric, slow, timed]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Enemy waves attack in increasing strength each round.
-- The defender must survive as long as possible.
+#### Core
+Enemy waves attack in increasing strength each round.
+The defender must survive as long as possible.
 
-**Win Condition:**
-- Defender scores points for each wave survived; attacker scores by breaking through.
+#### Win Condition
+Defender scores points for each wave survived; attacker scores by breaking through.
 
-**Variants:**
+#### Variants
 - Resources between waves (repair, resupply, reposition)
 - Waves come from different directions
 - Boss units appear in later waves
@@ -44,14 +44,14 @@ tags: [contact-high, rules-med, asymmetric, slow, timed]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Las oleadas enemigas atacan con fuerza creciente cada ronda.
-- El defensor debe sobrevivir el mayor tiempo posible.
+#### Concepto
+Las oleadas enemigas atacan con fuerza creciente cada ronda.
+El defensor debe sobrevivir el mayor tiempo posible.
 
-**Condición de Victoria:**
-- El defensor puntua por cada oleada sobrevivida; el atacante puntua al romper las defensas.
+#### Condición de Victoria
+El defensor puntua por cada oleada sobrevivida; el atacante puntua al romper las defensas.
 
-**Variantes:**
+#### Variantes
 - Recursos entre oleadas (reparar, reabastecer, reposicionar)
 - Las oleadas vienen de diferentes direcciones
 - Unidades jefe aparecen en oleadas posteriores

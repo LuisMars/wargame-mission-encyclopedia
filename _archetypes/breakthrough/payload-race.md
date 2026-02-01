@@ -27,14 +27,14 @@ tags: [contact-high, rules-med, snowball-med, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Each player pushes or drags a payload toward a destination.
-- The payload only moves when friendly models are nearby and no enemies contest.
+#### Core
+Each player pushes or drags a payload toward a destination.
+The payload only moves when friendly models are nearby and no enemies contest.
 
-**Win Condition:**
-- First payload to reach its destination wins.
+#### Win Condition
+First payload to reach its destination wins.
 
-**Variants:**
+#### Variants
 - Tug-of-war: single shared payload
 - Payload stalls when contested
 - Payload exposes pushers to enemy fire
@@ -43,14 +43,14 @@ tags: [contact-high, rules-med, snowball-med, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Cada jugador empuja o arrastra una carga hacia un destino.
-- La carga solo se mueve cuando hay modelos amigos cerca y ningún enemigo disputa.
+#### Concepto
+Cada jugador empuja o arrastra una carga hacia un destino.
+La carga solo se mueve cuando hay modelos amigos cerca y ningún enemigo disputa.
 
-**Condición de Victoria:**
-- La primera carga en llegar a su destino gana.
+#### Condición de Victoria
+La primera carga en llegar a su destino gana.
 
-**Variantes:**
+#### Variantes
 - Tira y afloja: una única carga compartida
 - La carga se detiene cuando es disputada
 - La carga expone a los qué la empujan al fuego enemigo

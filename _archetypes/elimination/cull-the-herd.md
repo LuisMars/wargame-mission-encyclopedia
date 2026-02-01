@@ -27,14 +27,14 @@ tags: [contact-high, rules-light, snowball-med, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A specific casualty threshold must be reached.
-- The race is to inflict enough damage first.
+#### Core
+A specific casualty threshold must be reached.
+The race is to inflict enough damage first.
 
-**Win Condition:**
-- First to reach X kills or value destroyed.
+#### Win Condition
+First to reach X kills or value destroyed.
 
-**Variants:**
+#### Variants
 - Only kills near objectives count
 - Kills in one round count double
 - Time limit before threshold check
@@ -43,14 +43,14 @@ tags: [contact-high, rules-light, snowball-med, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Se debe alcanzar un umbral específico de bajas.
-- La carrera es infligir suficiente daño primero.
+#### Concepto
+Se debe alcanzar un umbral específico de bajas.
+La carrera es infligir suficiente daño primero.
 
-**Condición de Victoria:**
-- Primero en alcanzar X eliminaciones o valor destruido.
+#### Condición de Victoria
+Primero en alcanzar X eliminaciones o valor destruido.
 
-**Variantes:**
+#### Variantes
 - Solo cuentan las eliminaciones cerca de objetivos
 - Eliminaciones en una ronda cuentan doble
 - Límite de tiempo antes de verificar el umbral

@@ -28,13 +28,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Set enemy supply caches on fire to deny them resources.
+#### Core
+Set enemy supply caches on fire to deny them resources.
 
-**Win Condition:**
-- Burn the most caches by the end of the game.
+#### Win Condition
+Burn the most caches by the end of the game.
 
-**Variants:**
+#### Variants
 - Fire spreads to adjacent terrain or caches
 - Burning caches create smoke zones that block line of sight
 - Caches explode when fully consumed
@@ -44,15 +44,15 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Prende fuego a los depósitos de suministros enemigos para negarles recursos.
+#### Concepto
+Prende fuego a los depósitos de suministros enemigos para negarles recursos.
 
-**Condición de Victoria:**
-- Quemar la mayor cantidad de depósitos al final de la partida.
+#### Condición de Victoria
+Quemar la mayor cantidad de depósitos al final de la partida.
 
-**Variantes:**
+#### Variantes
 - El fuego se propaga al terreno o depósitos adyacentes
-- Los depósitos en llamas crean zonas de humo que bloquean la línea de vision
+- Los depósitos en llamas crean zonas de humo que bloquean la línea de visión
 - Los depósitos explotan al consumirse por completo
 - El fuego elimina la cobertura en el área
 

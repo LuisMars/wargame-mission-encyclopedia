@@ -27,13 +27,13 @@ tags: [contact-low, rules-light, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Visit sectors across the battlefield and record them for intelligence purposes.
+#### Core
+Visit sectors across the battlefield and record them for intelligence purposes.
 
-**Win Condition:**
-- Map the most unique sectors by the end of the game.
+#### Win Condition
+Map the most unique sectors by the end of the game.
 
-**Variants:**
+#### Variants
 - Mapping requires an interaction action at each sector
 - Units must hold a sector for a full round to map it
 - Mapped sectors grant tactical bonuses for later turns
@@ -42,13 +42,13 @@ tags: [contact-low, rules-light, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Visita sectores del campo de batalla y registralos con fines de inteligencia.
+#### Concepto
+Visita sectores del campo de batalla y registralos con fines de inteligencia.
 
-**Condición de Victoria:**
-- Mapear la mayor cantidad de sectores unicos al final de la partida.
+#### Condición de Victoria
+Mapear la mayor cantidad de sectores unicos al final de la partida.
 
-**Variantes:**
+#### Variantes
 - El mapeo requiere una acción de interacción en cada sector
 - Las unidades deben mantener un sector durante un turno completo para mapearlo
 - Los sectores mapeados otorgan bonificaciones tácticas para turnos posteriores

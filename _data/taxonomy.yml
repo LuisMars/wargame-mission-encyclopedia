@@ -53,7 +53,7 @@ families:
     name: { en: Progress, es: Progreso }
     description:
       en: Missions focused on completing multi-step objectives, puzzles, or constructions
-      es: Misiones centradas en completar objetivos de varios pasos, puzzles o construcciones
+      es: Misiones centradas en completar objetivos de varios pasos, rompecabezas o construcciones
   - id: influence
     name: { en: Influence, es: Influencia }
     description:

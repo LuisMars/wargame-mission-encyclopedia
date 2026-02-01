@@ -746,15 +746,19 @@ a:hover { color: var(--color-accent-hover); }
   line-height: 1.75;
 }
 
-.archetype-body strong {
+.archetype-body h4 {
   font-family: var(--font-heading);
-  font-size: 1.02rem;
-  display: block;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-muted);
   margin-top: 1.5rem;
-  margin-bottom: 0.3rem;
-  padding-left: 0.7rem;
-  border-left: 3px solid var(--color-accent);
-  color: var(--color-text);
+  margin-bottom: 0.4rem;
+}
+
+.archetype-body h4:first-child {
+  margin-top: 0;
 }
 
 .archetype-body p {

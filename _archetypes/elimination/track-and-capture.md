@@ -27,14 +27,14 @@ tags: [contact-high, rules-heavy, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A target must be captured alive, not killed.
-- Capturing requires interaction, not just damage.
+#### Core
+A target must be captured alive, not killed.
+Capturing requires interaction, not just damage.
 
-**Win Condition:**
-- Capture and extract the target.
+#### Win Condition
+Capture and extract the target.
 
-**Variants:**
+#### Variants
 - Target can be stunned but recovers quickly
 - Target has escape routes that must be blocked
 - Lethal force is penalized
@@ -43,14 +43,14 @@ tags: [contact-high, rules-heavy, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Un objetivo debe ser capturado vivo, no matado.
-- La captura requiere interacción, no solo daño.
+#### Concepto
+Un objetivo debe ser capturado vivo, no matado.
+La captura requiere interacción, no solo daño.
 
-**Condición de Victoria:**
-- Capturar y extraer al objetivo.
+#### Condición de Victoria
+Capturar y extraer al objetivo.
 
-**Variantes:**
+#### Variantes
 - El objetivo puede ser aturdido pero se recupera rápidamente
 - El objetivo tiene rutas de escape que deben ser bloqueadas
 - La fuerza letal es penalizada

@@ -27,14 +27,14 @@ tags: [contact-high, rules-light, snowball-med, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- One specific model on each side is the key target.
-- The game revolves around hunting or protecting this model.
+#### Core
+One specific model on each side is the key target.
+The game revolves around hunting or protecting this model.
 
-**Win Condition:**
-- Remove the enemy VIP.
+#### Win Condition
+Remove the enemy VIP.
 
-**Variants:**
+#### Variants
 - Decoy VIPs that must be identified
 - VIP worth big points rather than instant win
 - VIP must be executed via Interact action
@@ -43,16 +43,16 @@ tags: [contact-high, rules-light, snowball-med, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Un modelo específico en cada bando es el objetivo clave.
-- El juego gira en torno a cazar o proteger este modelo.
+#### Concepto
+Un modelo específico en cada bando es el objetivo clave.
+El juego gira en torno a cazar o proteger este modelo.
 
-**Condición de Victoria:**
-- Eliminar al VIP enemigo.
+#### Condición de Victoria
+Eliminar al VIP enemigo.
 
-**Variantes:**
-- VIPs senuelo que deben ser identificados
-- VIP vale muchos puntos en vez de victoria instantanea
+#### Variantes
+- VIPs señuelo que deben ser identificados
+- VIP vale muchos puntos en vez de victoria instantánea
 - VIP debe ser ejecutado mediante acción de Interactuar
 
 </div>

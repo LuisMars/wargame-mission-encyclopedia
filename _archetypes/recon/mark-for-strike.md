@@ -27,13 +27,13 @@ tags: [contact-med, rules-med, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Mark enemy positions or key locations for off-board strikes or bonus actions.
+#### Core
+Mark enemy positions or key locations for off-board strikes or bonus actions.
 
-**Win Condition:**
-- Score the most points for marked targets that are subsequently eliminated.
+#### Win Condition
+Score the most points for marked targets that are subsequently eliminated.
 
-**Variants:**
+#### Variants
 - Marks expire after a set number of turns
 - Marks are placed secretly and revealed later
 - Marking requires risky close proximity to the target
@@ -42,13 +42,13 @@ tags: [contact-med, rules-med, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Marca posiciones enemigas o ubicaciones clave para ataques fuera del tablero o acciones adicionales.
+#### Concepto
+Marca posiciones enemigas o ubicaciones clave para ataques fuera del tablero o acciones adicionales.
 
-**Condición de Victoria:**
-- Obtener la mayor cantidad de puntos por objetivos marcados que son posteriormente eliminados.
+#### Condición de Victoria
+Obtener la mayor cantidad de puntos por objetivos marcados que son posteriormente eliminados.
 
-**Variantes:**
+#### Variantes
 - Las marcas expiran después de un número determinado de turnos
 - Las marcas se colocan en secreto y se revelan después
 - Marcar requiere proximidad arriesgada al objetivo

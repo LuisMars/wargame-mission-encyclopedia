@@ -27,13 +27,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Disable nodes in a defensive network to bring the shield or power grid down.
+#### Core
+Disable nodes in a defensive network to bring the shield or power grid down.
 
-**Win Condition:**
-- Disable enough nodes to meet the threshold.
+#### Win Condition
+Disable enough nodes to meet the threshold.
 
-**Variants:**
+#### Variants
 - Nodes must be disabled in a specific order
 - Disabled nodes reactivate after a number of turns
 - Automated defenses protect each node
@@ -42,13 +42,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Desactiva nodos en una red defensiva para derribar el escudo o la red eléctrica.
+#### Concepto
+Desactiva nodos en una red defensiva para derribar el escudo o la red eléctrica.
 
-**Condición de Victoria:**
-- Desactivar suficientes nodos para alcanzar el umbral.
+#### Condición de Victoria
+Desactivar suficientes nodos para alcanzar el umbral.
 
-**Variantes:**
+#### Variantes
 - Los nodos deben desactivarse en un orden específico
 - Los nodos desactivados se reactivan después de varios turnos
 - Defensas automatizadas protegen cada nodo

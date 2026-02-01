@@ -27,14 +27,14 @@ tags: [contact-med, rules-heavy, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A crowd is present and its behavior is volatile.
-- One side manages the crowd, the other may inflame it.
+#### Core
+A crowd is present and its behavior is volatile.
+One side manages the crowd, the other may inflame it.
 
-**Win Condition:**
-- Keep unrest level low, or direct crowd behavior.
+#### Win Condition
+Keep unrest level low, or direct crowd behavior.
 
-**Variants:**
+#### Variants
 - Crowd can turn violent under pressure
 - Crowd blocks movement for both sides
 - Crowd can be bribed or influenced
@@ -43,14 +43,14 @@ tags: [contact-med, rules-heavy, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Una multitud esta presente y su comportamiento es volatil.
-- Un bando gestiona la multitud, el otro puede inflamarla.
+#### Concepto
+Una multitud esta presente y su comportamiento es volatil.
+Un bando gestiona la multitud, el otro puede inflamarla.
 
-**Condición de Victoria:**
-- Mantener el nivel de desorden bajo, o dirigir el comportamiento de la multitud.
+#### Condición de Victoria
+Mantener el nivel de desorden bajo, o dirigir el comportamiento de la multitud.
 
-**Variantes:**
+#### Variantes
 - La multitud puede volverse violenta bajo presión
 - La multitud bloquea el movimiento para ambos bandos
 - La multitud puede ser sobornada o influenciada

@@ -28,14 +28,14 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A defender must keep the enemy out of a defined line, strip, or zone.
-- The attacker pushes to cross or breach the line.
+#### Core
+A defender must keep the enemy out of a defined line, strip, or zone.
+The attacker pushes to cross or breach the line.
 
-**Win Condition:**
-- Defender scores for keeping the line intact; attacker scores for crossing or breaching.
+#### Win Condition
+Defender scores for keeping the line intact; attacker scores for crossing or breaching.
 
-**Variants:**
+#### Variants
 - Multiple defensive lines
 - Collapsing fallback lines
 - Attacker must cross with a minimum force threshold
@@ -44,14 +44,14 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Un defensor debe mantener al enemigo fuera de una línea, franja o zona definida.
-- El atacante empuja para cruzar o romper la línea.
+#### Concepto
+Un defensor debe mantener al enemigo fuera de una línea, franja o zona definida.
+El atacante empuja para cruzar o romper la línea.
 
-**Condición de Victoria:**
-- El defensor puntua por mantener la línea intacta; el atacante puntua por cruzar o romper.
+#### Condición de Victoria
+El defensor puntua por mantener la línea intacta; el atacante puntua por cruzar o romper.
 
-**Variantes:**
+#### Variantes
 - Múltiples líneas defensivas
 - Líneas de repliegue colapsables
 - El atacante debe cruzar con un umbral mínimo de fuerza

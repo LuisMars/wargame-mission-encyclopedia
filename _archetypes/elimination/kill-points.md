@@ -27,14 +27,14 @@ tags: [contact-high, rules-light, snowball-med, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Each enemy unit has a point value based on its cost or power.
-- Destroying more valuable targets yields more points.
+#### Core
+Each enemy unit has a point value based on its cost or power.
+Destroying more valuable targets yields more points.
 
-**Win Condition:**
-- Total value destroyed determines the winner.
+#### Win Condition
+Total value destroyed determines the winner.
 
-**Variants:**
+#### Variants
 - Escalating bounty on elite units
 - Penalty for friendly losses
 - Partial credit for crippling but not destroying
@@ -43,14 +43,14 @@ tags: [contact-high, rules-light, snowball-med, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Cada unidad enemiga tiene un valor en puntos basado en su coste o poder.
-- Destruir objetivos más valiosos otorga más puntos.
+#### Concepto
+Cada unidad enemiga tiene un valor en puntos basado en su coste o poder.
+Destruir objetivos más valiosos otorga más puntos.
 
-**Condición de Victoria:**
-- El valor total destruido determina al ganador.
+#### Condición de Victoria
+El valor total destruido determina al ganador.
 
-**Variantes:**
+#### Variantes
 - Recompensa creciente por unidades de elite
 - Penalización por pérdidas propias
 - Credito parcial por incapacitar sin destruir

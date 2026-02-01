@@ -28,14 +28,14 @@ tags: [contact-high, rules-heavy, snowball-med, mid, pve]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A powerful creature roams the battlefield, controlled by AI or a third-party mechanism.
-- Players compete to track and kill it for victory points.
+#### Core
+A powerful creature roams the battlefield, controlled by AI or a third-party mechanism.
+Players compete to track and kill it for victory points.
 
-**Win Condition:**
-- Score the most trophy points from the slain creature.
+#### Win Condition
+Score the most trophy points from the slain creature.
 
-**Variants:**
+#### Variants
 - Boss flees when wounded and must be tracked
 - Boss has lairs that grant it bonuses
 - Boss is worth more if killed in a specific zone
@@ -44,14 +44,14 @@ tags: [contact-high, rules-heavy, snowball-med, mid, pve]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Una criatura poderosa recorre el campo de batalla, controlada por IA o un mecanismo de terceros.
-- Los jugadores compiten para rastrearla y matarla por puntos de victoria.
+#### Concepto
+Una criatura poderosa recorre el campo de batalla, controlada por IA o un mecanismo de terceros.
+Los jugadores compiten para rastrearla y matarla por puntos de victoria.
 
-**Condición de Victoria:**
-- Obtener la mayor cantidad de puntos de trofeo por la criatura abatida.
+#### Condición de Victoria
+Obtener la mayor cantidad de puntos de trofeo por la criatura abatida.
 
-**Variantes:**
+#### Variantes
 - El jefe huye cuando esta herido y debe ser rastreado
 - El jefe tiene guaridas que le otorgan bonificaciones
 - El jefe vale más si se mata en una zona específica

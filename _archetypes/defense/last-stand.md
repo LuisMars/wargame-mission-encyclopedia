@@ -27,13 +27,13 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- The defender holds a zone against increasing enemy pressure.
+#### Core
+The defender holds a zone against increasing enemy pressure.
 
-**Win Condition:**
-- Survive to the time limit or score points for each round the zone is held.
+#### Win Condition
+Survive to the time limit or score points for each round the zone is held.
 
-**Variants:**
+#### Variants
 - The attacker receives reinforcements each round
 - The defender can build fortifications during setup
 - The defended zone shrinks over time
@@ -42,13 +42,13 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- El defensor mantiene una zona contra presión enemiga creciente.
+#### Concepto
+El defensor mantiene una zona contra presión enemiga creciente.
 
-**Condición de Victoria:**
-- Sobrevivir hasta el límite de tiempo o puntuar por cada ronda qué se mantiene la zona.
+#### Condición de Victoria
+Sobrevivir hasta el límite de tiempo o puntuar por cada ronda qué se mantiene la zona.
 
-**Variantes:**
+#### Variantes
 - El atacante recibe refuerzos cada ronda
 - El defensor puede construir fortificaciones durante la preparación
 - La zona defendida se reduce con el tiempo

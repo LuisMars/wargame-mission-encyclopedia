@@ -27,13 +27,13 @@ tags: [contact-med, rules-med, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Beacons are placed across the battlefield; interact with them to collect intel.
+#### Core
+Beacons are placed across the battlefield; interact with them to collect intel.
 
-**Win Condition:**
-- Scan the most beacons.
+#### Win Condition
+Scan the most beacons.
 
-**Variants:**
+#### Variants
 - Scanning takes multiple turns to complete
 - Scanning requires line of sight to the beacon
 - Scan data decays over time if not extracted
@@ -42,15 +42,15 @@ tags: [contact-med, rules-med, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Balizas están colocadas por el campo de batalla; interactua con ellas para recopilar inteligencia.
+#### Concepto
+Balizas están colocadas por el campo de batalla; interactua con ellas para recopilar inteligencia.
 
-**Condición de Victoria:**
-- Escanear la mayor cantidad de balizas.
+#### Condición de Victoria
+Escanear la mayor cantidad de balizas.
 
-**Variantes:**
+#### Variantes
 - El escaneo toma varios turnos en completarse
-- El escaneo requiere línea de vision hacia la baliza
+- El escaneo requiere línea de visión hacia la baliza
 - Los datos del escaneo se degradan con el tiempo si no se extraen
 
 </div>

@@ -27,13 +27,13 @@ tags: [contact-low, rules-med, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Contaminate a key area or object and keep the contamination active long enough to score.
+#### Core
+Contaminate a key area or object and keep the contamination active long enough to score.
 
-**Win Condition:**
-- Maintain contamination active for enough time to meet the threshold.
+#### Win Condition
+Maintain contamination active for enough time to meet the threshold.
 
-**Variants:**
+#### Variants
 - Contamination can be cleansed by the opponent
 - Contamination spreads to nearby areas over time
 - Contamination harms both sides indiscriminately
@@ -42,13 +42,13 @@ tags: [contact-low, rules-med, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Contamina un área u objeto clave y mantén la contaminación activa el tiempo suficiente para puntuar.
+#### Concepto
+Contamina un área u objeto clave y mantén la contaminación activa el tiempo suficiente para puntuar.
 
-**Condición de Victoria:**
-- Mantener la contaminación activa el tiempo suficiente para alcanzar el umbral.
+#### Condición de Victoria
+Mantener la contaminación activa el tiempo suficiente para alcanzar el umbral.
 
-**Variantes:**
+#### Variantes
 - La contaminación puede ser limpiada por el oponente
 - La contaminación se propaga a áreas cercanas con el tiempo
 - La contaminación daña a ambos bandos indiscriminadamente

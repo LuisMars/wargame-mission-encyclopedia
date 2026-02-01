@@ -27,13 +27,13 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Start contained within an encirclement and fight to escape to the board edges.
+#### Core
+Start contained within an encirclement and fight to escape to the board edges.
 
-**Win Condition:**
-- Extract enough models to safety.
+#### Win Condition
+Extract enough models to safety.
 
-**Variants:**
+#### Variants
 - Fixed patrol routes create windows of opportunity
 - Prisoners start unarmed and must find weapons
 - Keys or access codes are required to open escape routes
@@ -42,15 +42,15 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Comienza contenido dentro de un cerco y lucha para escapar hacia los bordes del tablero.
+#### Concepto
+Comienza contenido dentro de un cerco y lucha para escapar hacia los bordes del tablero.
 
-**Condición de Victoria:**
-- Extraer suficientes modelos a un lugar seguro.
+#### Condición de Victoria
+Extraer suficientes modelos a un lugar seguro.
 
-**Variantes:**
+#### Variantes
 - Rutas de patrulla fijas crean ventanas de oportunidad
 - Los prisioneros comienzan desarmados y deben encontrar armas
-- Se requieren llaves o codigos de acceso para abrir rutas de escape
+- Se requieren llaves o códigos de acceso para abrir rutas de escape
 
 </div>

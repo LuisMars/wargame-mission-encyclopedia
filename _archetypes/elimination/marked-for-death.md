@@ -27,14 +27,14 @@ tags: [contact-high, rules-med, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A specific target is chosen and becomes worth bonus points.
-- Hunting the marked target is the priority.
+#### Core
+A specific target is chosen and becomes worth bonus points.
+Hunting the marked target is the priority.
 
-**Win Condition:**
-- Kill marked targets for bonus points.
+#### Win Condition
+Kill marked targets for bonus points.
 
-**Variants:**
+#### Variants
 - Mark changes each round
 - Players secretly mark their target
 - Mark can be cleansed or removed by the target
@@ -43,14 +43,14 @@ tags: [contact-high, rules-med, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Se elige un objetivo específico que vale puntos de bonificación.
-- Cazar al objetivo marcado es la prioridad.
+#### Concepto
+Se elige un objetivo específico que vale puntos de bonificación.
+Cazar al objetivo marcado es la prioridad.
 
-**Condición de Victoria:**
-- Eliminar objetivos marcados por puntos de bonificación.
+#### Condición de Victoria
+Eliminar objetivos marcados por puntos de bonificación.
 
-**Variantes:**
+#### Variantes
 - La marca cambia cada ronda
 - Los jugadores marcan su objetivo en secreto
 - La marca puede ser limpiada o eliminada por el objetivo

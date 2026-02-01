@@ -28,13 +28,13 @@ tags: [contact-med, rules-light, asymmetric, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Carry a message or item across the battlefield to a designated destination.
+#### Core
+Carry a message or item across the battlefield to a designated destination.
 
-**Win Condition:**
-- Successfully deliver the item.
+#### Win Condition
+Successfully deliver the item.
 
-**Variants:**
+#### Variants
 - The item can be passed between friendly models
 - Carrying the item reveals the courier's position
 - The item is fragile and can be destroyed
@@ -43,13 +43,13 @@ tags: [contact-med, rules-light, asymmetric, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Lleva un mensaje u objeto a través del campo de batalla hasta un destino designado.
+#### Concepto
+Lleva un mensaje u objeto a través del campo de batalla hasta un destino designado.
 
-**Condición de Victoria:**
-- Entregar el objeto exitosamente.
+#### Condición de Victoria
+Entregar el objeto exitosamente.
 
-**Variantes:**
+#### Variantes
 - El objeto puede pasarse entre modelos aliados
 - Llevar el objeto revela la posición del mensajero
 - El objeto es fragil y puede ser destruido

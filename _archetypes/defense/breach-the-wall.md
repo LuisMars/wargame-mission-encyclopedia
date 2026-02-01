@@ -27,14 +27,14 @@ tags: [contact-high, rules-med, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- The attacker must breach fortified outer defenses.
-- The defender must hold the wall or repair breaches.
+#### Core
+The attacker must breach fortified outer defenses.
+The defender must hold the wall or repair breaches.
 
-**Win Condition:**
-- Attacker wins by breaching and holding; defender wins by keeping the wall intact.
+#### Win Condition
+Attacker wins by breaching and holding; defender wins by keeping the wall intact.
 
-**Variants:**
+#### Variants
 - Multiple breach points with different difficulty levels
 - Defenders can repair breaches over time
 - Breaching creates hazardous rubble zones
@@ -43,14 +43,14 @@ tags: [contact-high, rules-med, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- El atacante debe abrir brecha en las defensas exteriores fortificadas.
-- El defensor debe mantener el muro o reparar las brechas.
+#### Concepto
+El atacante debe abrir brecha en las defensas exteriores fortificadas.
+El defensor debe mantener el muro o reparar las brechas.
 
-**Condición de Victoria:**
-- El atacante gana abriendo brecha y manteniendola; el defensor gana manteniendo el muro intacto.
+#### Condición de Victoria
+El atacante gana abriendo brecha y manteniendola; el defensor gana manteniendo el muro intacto.
 
-**Variantes:**
+#### Variantes
 - Múltiples puntos de brecha con diferentes niveles de dificultad
 - Los defensores pueden reparar las brechas con el tiempo
 - La brecha crea zonas de escombros peligrosos

@@ -27,13 +27,13 @@ tags: [contact-high, rules-med, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Push a vehicle or cart along a fixed route to reach its destination.
+#### Core
+Push a vehicle or cart along a fixed route to reach its destination.
 
-**Win Condition:**
-- Reach the destination or pass enough checkpoints along the route.
+#### Win Condition
+Reach the destination or pass enough checkpoints along the route.
 
-**Variants:**
+#### Variants
 - The route forks, requiring a choice of path
 - The vehicle can break down and require repairs
 - Ambush triggers activate at specific points on the route
@@ -42,13 +42,13 @@ tags: [contact-high, rules-med, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Empuja un vehículo o carro a lo largo de una ruta fija para alcanzar su destino.
+#### Concepto
+Empuja un vehículo o carro a lo largo de una ruta fija para alcanzar su destino.
 
-**Condición de Victoria:**
-- Alcanzar el destino o pasar suficientes puntos de control a lo largo de la ruta.
+#### Condición de Victoria
+Alcanzar el destino o pasar suficientes puntos de control a lo largo de la ruta.
 
-**Variantes:**
+#### Variantes
 - La ruta se bifurca, requiriendo elegir un camino
 - El vehículo puede averiarse y requerir reparaciones
 - Se activan emboscadas en puntos específicos de la ruta

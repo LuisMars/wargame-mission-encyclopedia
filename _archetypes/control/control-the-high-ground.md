@@ -28,14 +28,14 @@ tags: [contact-high, rules-light, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Designated elevated terrain features serve as scoring zones.
-- Players fight to occupy and hold these elevated positions.
+#### Core
+Designated elevated terrain features serve as scoring zones.
+Players fight to occupy and hold these elevated positions.
 
-**Win Condition:**
-- Hold elevated zones at scoring time.
+#### Win Condition
+Hold elevated zones at scoring time.
 
-**Variants:**
+#### Variants
 - Only the highest position counts
 - Multiple tiers of elevation with different values
 - Zones give combat bonuses or penalties
@@ -45,14 +45,14 @@ tags: [contact-high, rules-light, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Caracteristicas de terreno elevado designadas sirven como zonas de puntuación.
-- Los jugadores luchan por ocupar y mantener estas posiciones elevadas.
+#### Concepto
+Caracteristicas de terreno elevado designadas sirven como zonas de puntuación.
+Los jugadores luchan por ocupar y mantener estas posiciones elevadas.
 
-**Condición de Victoria:**
-- Mantener las zonas elevadas en el momento de puntuar.
+#### Condición de Victoria
+Mantener las zonas elevadas en el momento de puntuar.
 
-**Variantes:**
+#### Variantes
 - Solo la posición más alta cuenta
 - Múltiples niveles de elevación con diferentes valores
 - Las zonas dan bonificaciones o penalizaciones de combate

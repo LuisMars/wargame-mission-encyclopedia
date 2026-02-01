@@ -28,14 +28,14 @@ tags: [contact-med, rules-light, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- The battlefield is divided into sectors or quadrants.
-- Players compete for presence in each sector.
+#### Core
+The battlefield is divided into sectors or quadrants.
+Players compete for presence in each sector.
 
-**Win Condition:**
-- Control more sectors than the opponent.
+#### Win Condition
+Control more sectors than the opponent.
 
-**Variants:**
+#### Variants
 - Only some sectors score each round
 - Sectors change scoring value over time
 - Sectors require a claiming action to score
@@ -44,15 +44,15 @@ tags: [contact-med, rules-light, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- El campo de batalla se divide en sectores o cuadrantes.
-- Los jugadores compiten por presencia en cada sector.
+#### Concepto
+El campo de batalla se divide en sectores o cuadrantes.
+Los jugadores compiten por presencia en cada sector.
 
-**Condición de Victoria:**
-- Controlar más sectores qué el oponente.
+#### Condición de Victoria
+Controlar más sectores qué el oponente.
 
-**Variantes:**
-- Solo algunos sectores puntuan cada ronda
+#### Variantes
+- Solo algunos sectores puntúan cada ronda
 - Los sectores cambian de valor con el tiempo
 - Los sectores requieren una acción de reclamación para puntuar
 

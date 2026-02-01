@@ -27,14 +27,14 @@ tags: [contact-med, rules-med, snowball-low, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Progress is accumulated by holding a position over time.
-- Standing in designated zones advances a progress clock.
+#### Core
+Progress is accumulated by holding a position over time.
+Standing in designated zones advances a progress clock.
 
-**Win Condition:**
-- Reach the progress threshold.
+#### Win Condition
+Reach the progress threshold.
 
-**Variants:**
+#### Variants
 - Progress resets when the zone is contested
 - Multiple channeling circles available
 - Backlash hazards when progress is interrupted
@@ -43,14 +43,14 @@ tags: [contact-med, rules-med, snowball-low, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- El progreso se acumula manteniendo una posición a lo largo del tiempo.
-- Permanecer en zonas designadas avanza un reloj de progreso.
+#### Concepto
+El progreso se acumula manteniendo una posición a lo largo del tiempo.
+Permanecer en zonas designadas avanza un reloj de progreso.
 
-**Condición de Victoria:**
-- Alcanzar el umbral de progreso.
+#### Condición de Victoria
+Alcanzar el umbral de progreso.
 
-**Variantes:**
+#### Variantes
 - El progreso se reinicia cuando la zona es disputada
 - Múltiples circulos de canalización disponibles
 - Peligros de contragolpe cuando el progreso es interrumpido

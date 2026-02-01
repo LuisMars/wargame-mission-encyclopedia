@@ -21,20 +21,20 @@ name:
   es: Duelo de campeones
 summary:
   en: Designated champions must fight each other.
-  es: Campeones designados deben luchar entre si.
+  es: Campeones designados deben luchar entre sí.
 tags: [contact-high, rules-light, snowball-low, fast]
 ---
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Each side designates a champion model.
-- The champions must engage in combat.
+#### Core
+Each side designates a champion model.
+The champions must engage in combat.
 
-**Win Condition:**
-- Kill or rout the enemy champion.
+#### Win Condition
+Kill or rout the enemy champion.
 
-**Variants:**
+#### Variants
 - Honor rules: no interference allowed
 - Interference allowed but penalized
 - Champions must reach center before dueling
@@ -43,14 +43,14 @@ tags: [contact-high, rules-light, snowball-low, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Cada bando designa un modelo campeon.
-- Los campeones deben enfrentarse en combate.
+#### Concepto
+Cada bando designa un modelo campeon.
+Los campeones deben enfrentarse en combate.
 
-**Condición de Victoria:**
-- Eliminar o hacer huir al campeon enemigo.
+#### Condición de Victoria
+Eliminar o hacer huir al campeon enemigo.
 
-**Variantes:**
+#### Variantes
 - Reglas de honor: no se permite interferencia
 - Interferencia permitida pero penalizada
 - Los campeones deben llegar al centro antes de pelear

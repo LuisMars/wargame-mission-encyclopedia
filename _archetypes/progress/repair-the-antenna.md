@@ -28,14 +28,14 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A critical asset needs repair under combat conditions.
-- A progress clock tracks repair completion.
+#### Core
+A critical asset needs repair under combat conditions.
+A progress clock tracks repair completion.
 
-**Win Condition:**
-- Complete the repair clock.
+#### Win Condition
+Complete the repair clock.
 
-**Variants:**
+#### Variants
 - Spare parts must be gathered first
 - Repair is interrupted by taking damage
 - Only specialist models can perform repairs
@@ -44,14 +44,14 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Un activo crítico necesita reparación bajo condiciones de combate.
-- Un reloj de progreso rastrea la finalización de la reparación.
+#### Concepto
+Un activo crítico necesita reparación bajo condiciones de combate.
+Un reloj de progreso rastrea la finalización de la reparación.
 
-**Condición de Victoria:**
-- Completar el reloj de reparación.
+#### Condición de Victoria
+Completar el reloj de reparación.
 
-**Variantes:**
+#### Variantes
 - Primero deben reunirse piezas de repuesto
 - La reparación se interrumpe al recibir daño
 - Solo modelos especialistas pueden realizar reparaciones

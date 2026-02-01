@@ -27,14 +27,14 @@ tags: [contact-low, rules-heavy, snowball-med, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Neutral groups exist on the battlefield.
-- Players spend resources or actions to recruit them.
+#### Core
+Neutral groups exist on the battlefield.
+Players spend resources or actions to recruit them.
 
-**Win Condition:**
-- Neutrals recruited and held at game end.
+#### Win Condition
+Neutrals recruited and held at game end.
 
-**Variants:**
+#### Variants
 - Neutrals can switch sides if outbid
 - Recruitment is done secretly
 - Neutrals behave unpredictably once recruited
@@ -43,14 +43,14 @@ tags: [contact-low, rules-heavy, snowball-med, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Existen grupos neutrales en el campo de batalla.
-- Los jugadores gastan recursos o acciones para reclutarlos.
+#### Concepto
+Existen grupos neutrales en el campo de batalla.
+Los jugadores gastan recursos o acciones para reclutarlos.
 
-**Condición de Victoria:**
-- Neutrales reclutados y mantenidos al final del juego.
+#### Condición de Victoria
+Neutrales reclutados y mantenidos al final del juego.
 
-**Variantes:**
+#### Variantes
 - Los neutrales pueden cambiar de bando si se les ofrece más
 - El reclutamiento se hace en secreto
 - Los neutrales se comportan de forma impredecible una vez reclutados

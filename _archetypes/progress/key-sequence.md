@@ -27,14 +27,14 @@ tags: [contact-med, rules-heavy, snowball-low, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Objectives must be activated in a specific hidden sequence.
-- Wrong activations reset progress or trigger penalties.
+#### Core
+Objectives must be activated in a specific hidden sequence.
+Wrong activations reset progress or trigger penalties.
 
-**Win Condition:**
-- Complete the correct activation sequence first.
+#### Win Condition
+Complete the correct activation sequence first.
 
-**Variants:**
+#### Variants
 - Clues scattered on the battlefield reveal the order
 - The opponent can scramble your sequence progress
 - Partial sequences grant partial scoring
@@ -43,14 +43,14 @@ tags: [contact-med, rules-heavy, snowball-low, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Los objetivos deben activarse en una secuencia oculta específica.
-- Las activaciones incorrectas reinician el progreso o activan penalizaciones.
+#### Concepto
+Los objetivos deben activarse en una secuencia oculta específica.
+Las activaciones incorrectas reinician el progreso o activan penalizaciones.
 
-**Condición de Victoria:**
-- Completar la secuencia de activación correcta primero.
+#### Condición de Victoria
+Completar la secuencia de activación correcta primero.
 
-**Variantes:**
+#### Variantes
 - Pistas dispersas por el campo de batalla revelan el orden
 - El oponente puede desorganizar tu progreso de secuencia
 - Las secuencias parciales otorgan puntuación parcial

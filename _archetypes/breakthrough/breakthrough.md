@@ -27,13 +27,13 @@ tags: [contact-high, rules-light, asymmetric, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Push units through enemy defensive lines and extract them on the far side.
+#### Core
+Push units through enemy defensive lines and extract them on the far side.
 
-**Win Condition:**
-- Extract the most models through enemy lines.
+#### Win Condition
+Extract the most models through enemy lines.
 
-**Variants:**
+#### Variants
 - The exit zone only opens in later turns
 - Only certain unit types count for scoring
 - Units must carry a token to score on extraction
@@ -42,13 +42,13 @@ tags: [contact-high, rules-light, asymmetric, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Empuja unidades a través de las líneas defensivas enemigas y extraelas en el lado opuesto.
+#### Concepto
+Empuja unidades a través de las líneas defensivas enemigas y extraelas en el lado opuesto.
 
-**Condición de Victoria:**
-- Extraer la mayor cantidad de modelos a través de las líneas enemigas.
+#### Condición de Victoria
+Extraer la mayor cantidad de modelos a través de las líneas enemigas.
 
-**Variantes:**
+#### Variantes
 - La zona de salida solo se abre en turnos posteriores
 - Solo ciertos tipos de unidades cuentan para la puntuación
 - Las unidades deben llevar una ficha para puntuar al extraerse

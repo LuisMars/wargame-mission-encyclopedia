@@ -27,14 +27,14 @@ tags: [contact-high, rules-med, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Bounties are placed on targets meeting certain criteria.
-- Players earn points for fulfilling bounty conditions.
+#### Core
+Bounties are placed on targets meeting certain criteria.
+Players earn points for fulfilling bounty conditions.
 
-**Win Condition:**
-- Most bounty points collected.
+#### Win Condition
+Most bounty points collected.
 
-**Variants:**
+#### Variants
 - Rotating bounty categories each round
 - Escalating bounty on surviving targets
 - Public vs secret bounty assignments
@@ -43,14 +43,14 @@ tags: [contact-high, rules-med, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Se colocan recompensas sobre objetivos que cumplen ciertos criterios.
-- Los jugadores ganan puntos por cumplir condiciones de recompensa.
+#### Concepto
+Se colocan recompensas sobre objetivos que cumplen ciertos criterios.
+Los jugadores ganan puntos por cumplir condiciones de recompensa.
 
-**Condición de Victoria:**
-- Mayor cantidad de puntos de recompensa recolectados.
+#### Condición de Victoria
+Mayor cantidad de puntos de recompensa recolectados.
 
-**Variantes:**
+#### Variantes
 - Categorias de recompensa rotativas cada ronda
 - Recompensa creciente por objetivos supervivientes
 - Asignaciones de recompensa publicas vs secretas

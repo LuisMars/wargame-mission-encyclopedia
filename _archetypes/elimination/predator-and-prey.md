@@ -28,14 +28,14 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Asymmetric kill vs survive scenario.
-- One side is the predator, the other the prey.
+#### Core
+Asymmetric kill vs survive scenario.
+One side is the predator, the other the prey.
 
-**Win Condition:**
-- Predator scores kills; prey scores for survival or extraction.
+#### Win Condition
+Predator scores kills; prey scores for survival or extraction.
 
-**Variants:**
+#### Variants
 - Roles swap mid-game
 - Predator has fewer but elite units
 - Prey has hidden deployment
@@ -44,14 +44,14 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Escenario asimétrico de cazar vs sobrevivir.
-- Un bando es el depredador, el otro es la presa.
+#### Concepto
+Escenario asimétrico de cazar vs sobrevivir.
+Un bando es el depredador, el otro es la presa.
 
-**Condición de Victoria:**
-- El depredador puntua por eliminaciones; la presa puntua por supervivencia o extracción.
+#### Condición de Victoria
+El depredador puntua por eliminaciones; la presa puntua por supervivencia o extracción.
 
-**Variantes:**
+#### Variantes
 - Los roles se intercambian a mitad del juego
 - El depredador tiene menos unidades pero de elite
 - La presa tiene despliegue oculto

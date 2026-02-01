@@ -28,13 +28,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Wounded models are scattered across the battlefield; retrieve them and carry them to extraction points.
+#### Core
+Wounded models are scattered across the battlefield; retrieve them and carry them to extraction points.
 
-**Win Condition:**
-- Evacuate the most wounded models.
+#### Win Condition
+Evacuate the most wounded models.
 
-**Variants:**
+#### Variants
 - Wounded models are immobile and must be carried
 - Stretcher teams move faster but are vulnerable
 - The evacuation zone changes location during the game
@@ -43,13 +43,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Modelos heridos están dispersos por el campo de batalla; recuperalos y llevalos a puntos de extracción.
+#### Concepto
+Modelos heridos están dispersos por el campo de batalla; recuperalos y llevalos a puntos de extracción.
 
-**Condición de Victoria:**
-- Evacuar la mayor cantidad de modelos heridos.
+#### Condición de Victoria
+Evacuar la mayor cantidad de modelos heridos.
 
-**Variantes:**
+#### Variantes
 - Los modelos heridos son inmoviles y deben ser cargados
 - Los equipos de camilla se mueven más rápido pero son vulnerables
 - La zona de evacuación cambia de ubicación durante la partida

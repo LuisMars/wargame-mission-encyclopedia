@@ -27,14 +27,14 @@ tags: [contact-low, rules-heavy, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Infiltrating units appear as civilians or neutrals until they act or are inspected.
-- The defender must identify and stop the infiltrators.
+#### Core
+Infiltrating units appear as civilians or neutrals until they act or are inspected.
+The defender must identify and stop the infiltrators.
 
-**Win Condition:**
-- Infiltrator completes the objective; defender stops them.
+#### Win Condition
+Infiltrator completes the objective; defender stops them.
 
-**Variants:**
+#### Variants
 - Suspicion meter builds from failed bluff checks
 - Inspection zones force reveals
 - Disguises break permanently once blown
@@ -43,14 +43,14 @@ tags: [contact-low, rules-heavy, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Las unidades infiltradas aparecen como civiles o neutrales hasta que actuan o son inspeccionadas.
-- El defensor debe identificar y detener a los infiltrados.
+#### Concepto
+Las unidades infiltradas aparecen como civiles o neutrales hasta que actuan o son inspeccionadas.
+El defensor debe identificar y detener a los infiltrados.
 
-**Condición de Victoria:**
-- El infiltrador completa el objetivo; el defensor lo detiene.
+#### Condición de Victoria
+El infiltrador completa el objetivo; el defensor lo detiene.
 
-**Variantes:**
+#### Variantes
 - El medidor de sospecha aumenta por verificaciones de farol fallidas
 - Las zonas de inspección fuerzan revelaciones
 - Los disfraces se rompen permanentemente una vez descubiertos

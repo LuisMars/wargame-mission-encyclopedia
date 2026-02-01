@@ -27,13 +27,13 @@ tags: [contact-med, rules-med, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Escort a noncombatant through a series of sacred or unsafe waypoints across the battlefield.
+#### Core
+Escort a noncombatant through a series of sacred or unsafe waypoints across the battlefield.
 
-**Win Condition:**
-- Complete the entire route through all waypoints.
+#### Win Condition
+Complete the entire route through all waypoints.
 
-**Variants:**
+#### Variants
 - The noncombatant must stop at shrine waypoints for a prayer action
 - The escort cannot fight during the prayer phase
 - The enemy scores points for each disruption caused
@@ -42,13 +42,13 @@ tags: [contact-med, rules-med, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Escolta a un no combatiente a través de una serie de puntos sagrados o inseguros en el campo de batalla.
+#### Concepto
+Escolta a un no combatiente a través de una serie de puntos sagrados o inseguros en el campo de batalla.
 
-**Condición de Victoria:**
-- Completar toda la ruta a través de todos los puntos de paso.
+#### Condición de Victoria
+Completar toda la ruta a través de todos los puntos de paso.
 
-**Variantes:**
+#### Variantes
 - El no combatiente debe detenerse en puntos de santuario para una acción de oración
 - La escolta no puede luchar durante la fase de oración
 - El enemigo obtiene puntos por cada interrupción causada

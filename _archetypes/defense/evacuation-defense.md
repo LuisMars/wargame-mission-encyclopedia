@@ -27,13 +27,13 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Evacuate civilians from the battlefield to safety while fighting off enemy attackers.
+#### Core
+Evacuate civilians from the battlefield to safety while fighting off enemy attackers.
 
-**Win Condition:**
-- Save the most civilians by the end of the game.
+#### Win Condition
+Save the most civilians by the end of the game.
 
-**Variants:**
+#### Variants
 - Civilians panic under fire and scatter
 - Civilians hide in buildings and must be found first
 - Bonus points for evacuating via a safe route
@@ -42,14 +42,14 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Evacua civiles del campo de batalla a un lugar seguro mientras luchas contra atacantes enemigos.
+#### Concepto
+Evacua civiles del campo de batalla a un lugar seguro mientras luchas contra atacantes enemigos.
 
-**Condición de Victoria:**
-- Salvar la mayor cantidad de civiles al final de la partida.
+#### Condición de Victoria
+Salvar la mayor cantidad de civiles al final de la partida.
 
-**Variantes:**
-- Los civiles entran en panico bajo fuego y se dispersan
+#### Variantes
+- Los civiles entran en pánico bajo fuego y se dispersan
 - Los civiles se esconden en edificios y deben ser encontrados primero
 - Puntos adicionales por evacuar por una ruta segura
 

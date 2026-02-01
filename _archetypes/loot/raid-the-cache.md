@@ -28,13 +28,13 @@ tags: [contact-high, rules-med, asymmetric, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Raid the enemy cache, loot the contents, and escape with the goods.
+#### Core
+Raid the enemy cache, loot the contents, and escape with the goods.
 
-**Win Condition:**
-- Score points for looting items and escaping with them.
+#### Win Condition
+Score points for looting items and escaping with them.
 
-**Variants:**
+#### Variants
 - Alarm triggers reinforcements for the defender
 - Limited time before extraction closes
 - Multiple interactions required to loot each item
@@ -43,13 +43,13 @@ tags: [contact-high, rules-med, asymmetric, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Asalta el depósito enemigo, saquea el contenido y escapa con los bienes.
+#### Concepto
+Asalta el depósito enemigo, saquea el contenido y escapa con los bienes.
 
-**Condición de Victoria:**
-- Obtener puntos por saquear objetos y escapar con ellos.
+#### Condición de Victoria
+Obtener puntos por saquear objetos y escapar con ellos.
 
-**Variantes:**
+#### Variantes
 - La alarma activa refuerzos para el defensor
 - Tiempo limitado antes de qué la extracción se cierre
 - Se requieren múltiples interacciones para saquear cada objeto

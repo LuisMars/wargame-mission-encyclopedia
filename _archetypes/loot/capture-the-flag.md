@@ -27,13 +27,13 @@ tags: [contact-high, rules-med, snowball-low, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Each side has a flag; steal the enemy's flag and bring it back to your base.
+#### Core
+Each side has a flag; steal the enemy's flag and bring it back to your base.
 
-**Win Condition:**
-- Score the most captures.
+#### Win Condition
+Score the most captures.
 
-**Variants:**
+#### Variants
 - Flags can be passed between models
 - The carrier cannot attack while holding the flag
 - Flags are secured behind defenses that must be overcome
@@ -42,13 +42,13 @@ tags: [contact-high, rules-med, snowball-low, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Cada bando tiene una bandera; roba la bandera enemiga y llevala de vuelta a tu base.
+#### Concepto
+Cada bando tiene una bandera; roba la bandera enemiga y llevala de vuelta a tu base.
 
-**Condición de Victoria:**
-- Conseguir la mayor cantidad de capturas.
+#### Condición de Victoria
+Conseguir la mayor cantidad de capturas.
 
-**Variantes:**
+#### Variantes
 - Las banderas pueden pasarse entre modelos
 - El portador no puede atacar mientras lleva la bandera
 - Las banderas están protegidas detrás de defensas que deben superarse

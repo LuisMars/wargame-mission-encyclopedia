@@ -27,14 +27,14 @@ tags: [contact-low, rules-med, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Deploy persistent hazards (gas, fire, radiation, corruption) to deny areas.
-- The opponent must avoid or cleanse contaminated zones.
+#### Core
+Deploy persistent hazards (gas, fire, radiation, corruption) to deny areas.
+The opponent must avoid or cleanse contaminated zones.
 
-**Win Condition:**
-- Contaminate enough of the battlefield to meet the threshold.
+#### Win Condition
+Contaminate enough of the battlefield to meet the threshold.
 
-**Variants:**
+#### Variants
 - Contamination spreads over time to adjacent zones
 - Wind or terrain channels contamination in specific directions
 - Cleansing requires specialists and time
@@ -44,14 +44,14 @@ tags: [contact-low, rules-med, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Despliega peligros persistentes (gas, fuego, radiación, corrupción) para denegar áreas.
-- El oponente debe evitar o limpiar las zonas contaminadas.
+#### Concepto
+Despliega peligros persistentes (gas, fuego, radiación, corrupción) para denegar áreas.
+El oponente debe evitar o limpiar las zonas contaminadas.
 
-**Condición de Victoria:**
-- Contaminar suficiente campo de batalla para alcanzar el umbral.
+#### Condición de Victoria
+Contaminar suficiente campo de batalla para alcanzar el umbral.
 
-**Variantes:**
+#### Variantes
 - La contaminación se propaga con el tiempo a zonas adyacentes
 - El viento o el terreno canalizan la contaminación en direcciones específicas
 - La limpieza requiere especialistas y tiempo

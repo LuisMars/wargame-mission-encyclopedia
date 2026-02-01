@@ -27,13 +27,13 @@ tags: [contact-med, rules-med, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Two-phase mission: reach a deep objective behind enemy lines, interact with it, then escape back to safety.
+#### Core
+Two-phase mission: reach a deep objective behind enemy lines, interact with it, then escape back to safety.
 
-**Win Condition:**
-- Complete the objective and extract successfully.
+#### Win Condition
+Complete the objective and extract successfully.
 
-**Variants:**
+#### Variants
 - An alarm escalation track increases difficulty over time
 - The exfiltration point changes after the objective is completed
 - Multiple infiltration routes offer different risk profiles
@@ -42,13 +42,13 @@ tags: [contact-med, rules-med, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Misión de dos fases: alcanza un objetivo profundo detrás de las líneas enemigas, interactua con el y luego escapa a un lugar seguro.
+#### Concepto
+Misión de dos fases: alcanza un objetivo profundo detrás de las líneas enemigas, interactua con el y luego escapa a un lugar seguro.
 
-**Condición de Victoria:**
-- Completar el objetivo y extraerse exitosamente.
+#### Condición de Victoria
+Completar el objetivo y extraerse exitosamente.
 
-**Variantes:**
+#### Variantes
 - Una pista de escalada de alarma aumenta la dificultad con el tiempo
 - El punto de exfiltración cambia después de completar el objetivo
 - Múltiples rutas de infiltración ofrecen diferentes perfiles de riesgo

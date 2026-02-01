@@ -27,13 +27,13 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Protect a key asset such as a generator from enemy attacks.
+#### Core
+Protect a key asset such as a generator from enemy attacks.
 
-**Win Condition:**
-- The asset survives to the end of the game.
+#### Win Condition
+The asset survives to the end of the game.
 
-**Variants:**
+#### Variants
 - The asset can be periodically repaired by nearby units
 - The asset powers defensive systems that benefit the defender
 - Destroying the asset causes hazardous effects in the area
@@ -42,13 +42,13 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Protege un activo clave cómo un generador de los ataques enemigos.
+#### Concepto
+Protege un activo clave como un generador de los ataques enemigos.
 
-**Condición de Victoria:**
-- El activo sobrevive hasta el final de la partida.
+#### Condición de Victoria
+El activo sobrevive hasta el final de la partida.
 
-**Variantes:**
+#### Variantes
 - El activo puede ser reparado periodicamente por unidades cercanas
 - El activo alimenta sistemas defensivos que benefician al defensor
 - Destruir el activo causa efectos peligrosos en el área

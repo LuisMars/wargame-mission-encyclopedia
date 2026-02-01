@@ -27,13 +27,16 @@ tags: [tag-1, tag-2]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Main mechanic
+#### Core
 
-**Win Condition:**
-- How the winner is determined
+Main mechanic description.
 
-**Variants:**
+#### Win Condition
+
+How the winner is determined.
+
+#### Variants
+
 - Variant 1
 - Variant 2
 
@@ -41,13 +44,16 @@ tags: [tag-1, tag-2]
 
 <div lang="es" markdown="1">
 
-**Nucleo:**
-- Mecanica principal
+#### Concepto
 
-**Condicion de Victoria:**
-- Como se determina el ganador
+Descripción de la mecánica principal.
 
-**Variantes:**
+#### Condición de Victoria
+
+Cómo se determina el ganador.
+
+#### Variantes
+
 - Variante 1
 - Variante 2
 

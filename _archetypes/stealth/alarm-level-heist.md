@@ -27,14 +27,14 @@ tags: [contact-low, rules-heavy, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A global alarm level rises as the infiltrator is detected or causes disruption.
-- Higher alarm levels trigger stronger responses from the defender.
+#### Core
+A global alarm level rises as the infiltrator is detected or causes disruption.
+Higher alarm levels trigger stronger responses from the defender.
 
-**Win Condition:**
-- Complete enough objectives before the alarm reaches critical level.
+#### Win Condition
+Complete enough objectives before the alarm reaches critical level.
 
-**Variants:**
+#### Variants
 - Alarm level can be reduced by eliminating witnesses
 - Different objectives raise different amounts of alarm
 - Alarm checkpoints trigger reinforcement waves
@@ -43,14 +43,14 @@ tags: [contact-low, rules-heavy, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Un nivel de alarma global sube cuando el infiltrador es detectado o causa disturbios.
-- Niveles de alarma más altos activan respuestas más fuertes del defensor.
+#### Concepto
+Un nivel de alarma global sube cuando el infiltrador es detectado o causa disturbios.
+Niveles de alarma más altos activan respuestas más fuertes del defensor.
 
-**Condición de Victoria:**
-- Completar suficientes objetivos antes de qué la alarma alcance el nivel crítico.
+#### Condición de Victoria
+Completar suficientes objetivos antes de qué la alarma alcance el nivel crítico.
 
-**Variantes:**
+#### Variantes
 - El nivel de alarma puede reducirse eliminando testigos
 - Diferentes objetivos elevan distintas cantidades de alarma
 - Los puntos de control de alarma activan oleadas de refuerzos

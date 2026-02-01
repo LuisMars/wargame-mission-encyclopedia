@@ -28,14 +28,14 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- The inverse of assassination: your goal is to keep the VIP alive.
-- May require extracting the VIP to a safe location.
+#### Core
+The inverse of assassination: your goal is to keep the VIP alive.
+May require extracting the VIP to a safe location.
 
-**Win Condition:**
-- VIP survives and/or is extracted.
+#### Win Condition
+VIP survives and/or is extracted.
 
-**Variants:**
+#### Variants
 - VIP is fragile with reduced stats
 - VIP can be healed or shielded
 - VIP reveals your position via signal or beacon
@@ -44,14 +44,14 @@ tags: [contact-high, rules-light, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Lo inverso del asesinato: tu objetivo es mantener al VIP con vida.
-- Puede requerir extraer al VIP a un lugar seguro.
+#### Concepto
+Lo inverso del asesinato: tu objetivo es mantener al VIP con vida.
+Puede requerir extraer al VIP a un lugar seguro.
 
-**Condición de Victoria:**
-- El VIP sobrevive y/o es extraido.
+#### Condición de Victoria
+El VIP sobrevive y/o es extraido.
 
-**Variantes:**
+#### Variantes
 - VIP es fragil con estadisticas reducidas
 - VIP puede ser curado o protegido
 - VIP revela tu posición via señal o baliza

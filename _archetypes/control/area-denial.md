@@ -28,14 +28,14 @@ tags: [contact-med, rules-light, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Points are awarded for maintaining exclusive control of zones.
-- The focus is on denying entry rather than simply being present.
+#### Core
+Points are awarded for maintaining exclusive control of zones.
+The focus is on denying entry rather than simply being present.
 
-**Win Condition:**
-- Deny entry and maintain zone exclusivity for scoring.
+#### Win Condition
+Deny entry and maintain zone exclusivity for scoring.
 
-**Variants:**
+#### Variants
 - Mines or traps enhance denial
 - Zones expand over time
 - Zones burn out and relocate
@@ -44,14 +44,14 @@ tags: [contact-med, rules-light, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Se otorgan puntos por mantener el control exclusivo de las zonas.
-- El enfoque está en denegar la entrada más que simplemente estar presente.
+#### Concepto
+Se otorgan puntos por mantener el control exclusivo de las zonas.
+El enfoque está en denegar la entrada más que simplemente estar presente.
 
-**Condición de Victoria:**
-- Denegar la entrada y mantener la exclusividad de la zona para puntuar.
+#### Condición de Victoria
+Denegar la entrada y mantener la exclusividad de la zona para puntuar.
 
-**Variantes:**
+#### Variantes
 - Minas o trampas mejoran la denegación
 - Las zonas se expanden con el tiempo
 - Las zonas se agotan y se reubican

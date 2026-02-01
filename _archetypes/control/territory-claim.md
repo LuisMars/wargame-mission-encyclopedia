@@ -28,14 +28,14 @@ tags: [contact-med, rules-med, snowball-med, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Players plant flags, claim ground, or establish outposts.
-- Claimed territory persists and must be actively challenged.
+#### Core
+Players plant flags, claim ground, or establish outposts.
+Claimed territory persists and must be actively challenged.
 
-**Win Condition:**
-- Territory claimed and held at game end.
+#### Win Condition
+Territory claimed and held at game end.
 
-**Variants:**
+#### Variants
 - Limited number of flags to plant
 - Flags can be uprooted by the enemy
 - Flags are worth more when placed deeper in enemy territory
@@ -44,14 +44,14 @@ tags: [contact-med, rules-med, snowball-med, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Los jugadores plantan banderas, reclaman terreno o establecen puestos avanzados.
-- El territorio reclamado persiste y debe ser desafiado activamente.
+#### Concepto
+Los jugadores plantan banderas, reclaman terreno o establecen puestos avanzados.
+El territorio reclamado persiste y debe ser desafiado activamente.
 
-**Condición de Victoria:**
-- Territorio reclamado y mantenido al final del juego.
+#### Condición de Victoria
+Territorio reclamado y mantenido al final del juego.
 
-**Variantes:**
+#### Variantes
 - Número limitado de banderas para plantar
 - Las banderas pueden ser arrancadas por el enemigo
 - Las banderas valen más cuando se colocan más profundo en territorio enemigo

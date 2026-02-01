@@ -27,14 +27,14 @@ tags: [contact-med, rules-med, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Multiple switches must be held simultaneously to open a door or activate a mechanism.
-- The objective behind the door must then be claimed.
+#### Core
+Multiple switches must be held simultaneously to open a door or activate a mechanism.
+The objective behind the door must then be claimed.
 
-**Win Condition:**
-- Open the door and extract or claim what is beyond.
+#### Win Condition
+Open the door and extract or claim what is beyond.
 
-**Variants:**
+#### Variants
 - Switches are far apart, requiring coordination
 - Switches can be disabled by the opponent
 - Switches require specialist units to operate
@@ -43,15 +43,15 @@ tags: [contact-med, rules-med, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Múltiples interruptores deben mantenerse simultaneamente para abrir una puerta o activar un mecanismo.
-- El objetivo detrás de la puerta debe reclamarse después.
+#### Concepto
+Múltiples interruptores deben mantenerse simultaneamente para abrir una puerta o activar un mecanismo.
+El objetivo detrás de la puerta debe reclamarse después.
 
-**Condición de Victoria:**
-- Abrir la puerta y extraer o reclamar lo que hay detrás.
+#### Condición de Victoria
+Abrir la puerta y extraer o reclamar lo que hay detrás.
 
-**Variantes:**
-- Los interruptores están lejos entre si, requiriendo coordinación
+#### Variantes
+- Los interruptores están lejos entre sí, requiriendo coordinación
 - Los interruptores pueden ser desactivados por el oponente
 - Los interruptores requieren unidades especialistas para operar
 

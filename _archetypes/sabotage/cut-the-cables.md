@@ -28,13 +28,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Destroy communication links between enemy positions to isolate their assets.
+#### Core
+Destroy communication links between enemy positions to isolate their assets.
 
-**Win Condition:**
-- Isolate enough enemy assets by cutting their connections.
+#### Win Condition
+Isolate enough enemy assets by cutting their connections.
 
-**Variants:**
+#### Variants
 - Cutting links causes network denial effects
 - Repair crews can restore severed connections
 - Alternate routes can bypass destroyed links
@@ -43,13 +43,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Destruye enlaces de comunicación entre posiciones enemigas para aislar sus activos.
+#### Concepto
+Destruye enlaces de comunicación entre posiciones enemigas para aislar sus activos.
 
-**Condición de Victoria:**
-- Aislar suficientes activos enemigos cortando sus conexiones.
+#### Condición de Victoria
+Aislar suficientes activos enemigos cortando sus conexiones.
 
-**Variantes:**
+#### Variantes
 - Cortar enlaces causa efectos de denegación de red
 - Equipos de reparación pueden restaurar conexiones cortadas
 - Rutas alternativas pueden evadir enlaces destruidos

@@ -28,13 +28,13 @@ tags: [contact-med, rules-heavy, snowball-low, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Find keys scattered on the battlefield, use them to open vaults, and extract the contents.
+#### Core
+Find keys scattered on the battlefield, use them to open vaults, and extract the contents.
 
-**Win Condition:**
-- Open vaults and extract their contents.
+#### Win Condition
+Open vaults and extract their contents.
 
-**Variants:**
+#### Variants
 - Keys drop on the carrier's death
 - Keys are hidden and must be discovered
 - Locks require a timed interaction to open
@@ -43,13 +43,13 @@ tags: [contact-med, rules-heavy, snowball-low, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Encuentra llaves dispersas en el campo de batalla, usalas para abrir bóvedas y extrae su contenido.
+#### Concepto
+Encuentra llaves dispersas en el campo de batalla, usalas para abrir bóvedas y extrae su contenido.
 
-**Condición de Victoria:**
-- Abrir bóvedas y extraer su contenido.
+#### Condición de Victoria
+Abrir bóvedas y extraer su contenido.
 
-**Variantes:**
+#### Variantes
 - Las llaves caen al morir el portador
 - Las llaves están ocultas y deben descubrirse
 - Las cerraduras requieren una interacción temporizada para abrir

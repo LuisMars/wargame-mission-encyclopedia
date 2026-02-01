@@ -27,14 +27,14 @@ tags: [contact-high, rules-med, snowball-med, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Instead of total destruction, the goal is to break the enemy's will.
-- A morale or breaking threshold determines when a force collapses.
+#### Core
+Instead of total destruction, the goal is to break the enemy's will.
+A morale or breaking threshold determines when a force collapses.
 
-**Win Condition:**
-- Enemy breaks or routs; or defender survives without breaking.
+#### Win Condition
+Enemy breaks or routs; or defender survives without breaking.
 
-**Variants:**
+#### Variants
 - Kill leaders to accelerate morale collapse
 - Capture banners to worsen enemy morale
 - Destroy supply lines to reduce morale
@@ -43,15 +43,15 @@ tags: [contact-high, rules-med, snowball-med, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- En lugar de destrucción total, el objetivo es romper la voluntad del enemigo.
-- Un umbral de moral o quiebre determina cuando una fuerza colapsa.
+#### Concepto
+En lugar de destrucción total, el objetivo es romper la voluntad del enemigo.
+Un umbral de moral o quiebre determina cuando una fuerza colapsa.
 
-**Condición de Victoria:**
-- El enemigo se quiebra o huye; o el defensor sobrevive sin quebrarse.
+#### Condición de Victoria
+El enemigo se quiebra o huye; o el defensor sobrevive sin quebrarse.
 
-**Variantes:**
-- Matar lideres para acelerar el colapso de moral
+#### Variantes
+- Matar líderes para acelerar el colapso de moral
 - Capturar estandartes para empeorar la moral enemiga
 - Destruir líneas de suministro para reducir la moral
 

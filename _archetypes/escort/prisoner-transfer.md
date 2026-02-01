@@ -27,13 +27,13 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Escort a captive safely to a designated delivery point while the opponent attempts to free or intercept.
+#### Core
+Escort a captive safely to a designated delivery point while the opponent attempts to free or intercept.
 
-**Win Condition:**
-- The prisoner is successfully delivered.
+#### Win Condition
+The prisoner is successfully delivered.
 
-**Variants:**
+#### Variants
 - The prisoner can be stolen by the enemy
 - The prisoner escapes if left unguarded
 - The prisoner slows the carrier's movement
@@ -42,13 +42,13 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Escolta a un cautivo de forma segura hasta un punto de entrega designado mientras el oponente intenta liberarlo o interceptarlo.
+#### Concepto
+Escolta a un cautivo de forma segura hasta un punto de entrega designado mientras el oponente intenta liberarlo o interceptarlo.
 
-**Condición de Victoria:**
-- El prisionero es entregado exitosamente.
+#### Condición de Victoria
+El prisionero es entregado exitosamente.
 
-**Variantes:**
+#### Variantes
 - El prisionero puede ser robado por el enemigo
 - El prisionero escapa si se deja sin vigilancia
 - El prisionero ralentiza el movimiento del portador

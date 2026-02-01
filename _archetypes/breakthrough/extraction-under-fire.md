@@ -27,14 +27,14 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Your forces begin deep in hostile territory.
-- They must fight their way to a designated extraction point at the board edge.
+#### Core
+Your forces begin deep in hostile territory.
+They must fight their way to a designated extraction point at the board edge.
 
-**Win Condition:**
-- Extract enough models or units to meet the threshold.
+#### Win Condition
+Extract enough models or units to meet the threshold.
 
-**Variants:**
+#### Variants
 - Extraction point is not revealed until mid-game
 - Multiple extraction options with different risk levels
 - Wounded models slow the group
@@ -44,14 +44,14 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Tus fuerzas comienzan en territorio hostil profundo.
-- Deben luchar para llegar a un punto de extracción designado en el borde del tablero.
+#### Concepto
+Tus fuerzas comienzan en territorio hostil profundo.
+Deben luchar para llegar a un punto de extracción designado en el borde del tablero.
 
-**Condición de Victoria:**
-- Extraer suficientes modelos o unidades para alcanzar el umbral.
+#### Condición de Victoria
+Extraer suficientes modelos o unidades para alcanzar el umbral.
 
-**Variantes:**
+#### Variantes
 - El punto de extracción no se revela hasta la mitad de la partida
 - Múltiples opciones de extracción con diferentes niveles de riesgo
 - Los modelos heridos ralentizan al grupo

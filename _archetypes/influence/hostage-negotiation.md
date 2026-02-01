@@ -28,14 +28,14 @@ tags: [contact-med, rules-heavy, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Hostages are held by one side or in contested areas.
-- The rescuer must secure hostages without getting them killed.
+#### Core
+Hostages are held by one side or in contested areas.
+The rescuer must secure hostages without getting them killed.
 
-**Win Condition:**
-- Hostages extracted alive.
+#### Win Condition
+Hostages extracted alive.
 
-**Variants:**
+#### Variants
 - Hostages can be traded as bargaining chips
 - Hostage taker can execute hostages
 - Hostages reveal locations when rescued
@@ -44,14 +44,14 @@ tags: [contact-med, rules-heavy, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Los rehenes están retenidos por un bando o en áreas disputadas.
-- El rescatador debe asegurar a los rehenes sin que mueran.
+#### Concepto
+Los rehenes están retenidos por un bando o en áreas disputadas.
+El rescatador debe asegurar a los rehenes sin que mueran.
 
-**Condición de Victoria:**
-- Rehenes extraidos con vida.
+#### Condición de Victoria
+Rehenes extraidos con vida.
 
-**Variantes:**
+#### Variantes
 - Los rehenes pueden ser intercambiados como moneda de cambio
 - El captor puede ejecutar rehenes
 - Los rehenes revelan ubicaciones al ser rescatados

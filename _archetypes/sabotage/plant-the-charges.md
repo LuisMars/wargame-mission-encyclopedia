@@ -27,13 +27,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Plant explosives on designated targets across the battlefield and detonate them.
+#### Core
+Plant explosives on designated targets across the battlefield and detonate them.
 
-**Win Condition:**
-- Destroy enough targets to meet the threshold.
+#### Win Condition
+Destroy enough targets to meet the threshold.
 
-**Variants:**
+#### Variants
 - Charges have timed fuses that can be interrupted
 - The defender can defuse planted charges
 - Partial damage accumulates across attempts
@@ -43,13 +43,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Coloca explosivos en objetivos designados del campo de batalla y detonalos.
+#### Concepto
+Coloca explosivos en objetivos designados del campo de batalla y detonalos.
 
-**Condición de Victoria:**
-- Destruir suficientes objetivos para alcanzar el umbral.
+#### Condición de Victoria
+Destruir suficientes objetivos para alcanzar el umbral.
 
-**Variantes:**
+#### Variantes
 - Las cargas tienen mechas temporizadas que pueden ser interrumpidas
 - El defensor puede desactivar cargas colocadas
 - El daño parcial se acumula entre intentos

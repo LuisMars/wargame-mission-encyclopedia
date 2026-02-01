@@ -27,14 +27,14 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Hostages are held at enemy-controlled locations.
-- The rescuer must fight in, secure hostages, and extract them.
+#### Core
+Hostages are held at enemy-controlled locations.
+The rescuer must fight in, secure hostages, and extract them.
 
-**Win Condition:**
-- Extract enough hostages alive to meet the threshold.
+#### Win Condition
+Extract enough hostages alive to meet the threshold.
 
-**Variants:**
+#### Variants
 - Hostage locations are hidden and must be discovered
 - Hostages can be executed if the alarm is raised
 - Hostages slow the carrier and cannot fight
@@ -44,14 +44,14 @@ tags: [contact-high, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Los rehenes están retenidos en ubicaciones controladas por el enemigo.
-- El rescatador debe luchar para entrar, asegurar rehenes y extraerlos.
+#### Concepto
+Los rehenes están retenidos en ubicaciones controladas por el enemigo.
+El rescatador debe luchar para entrar, asegurar rehenes y extraerlos.
 
-**Condición de Victoria:**
-- Extraer suficientes rehenes vivos para alcanzar el umbral.
+#### Condición de Victoria
+Extraer suficientes rehenes vivos para alcanzar el umbral.
 
-**Variantes:**
+#### Variantes
 - Las ubicaciones de los rehenes están ocultas y deben descubrirse
 - Los rehenes pueden ser ejecutados si se activa la alarma
 - Los rehenes ralentizan al portador y no pueden luchar

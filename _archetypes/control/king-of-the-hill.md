@@ -28,14 +28,14 @@ tags: [contact-high, rules-light, snowball-low, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A single central zone exists on the battlefield.
-- Both players attempt to occupy and hold it.
+#### Core
+A single central zone exists on the battlefield.
+Both players attempt to occupy and hold it.
 
-**Win Condition:**
-- Hold the hill for the most rounds, or hold it at game end.
+#### Win Condition
+Hold the hill for the most rounds, or hold it at game end.
 
-**Variants:**
+#### Variants
 - Rotating hill that moves each round
 - Hazardous hill that damages units inside
 - Uninterrupted streak wins instantly
@@ -45,14 +45,14 @@ tags: [contact-high, rules-light, snowball-low, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Existe una única zona central en el campo de batalla.
-- Ambos jugadores intentan ocuparla y mantenerla.
+#### Concepto
+Existe una única zona central en el campo de batalla.
+Ambos jugadores intentan ocuparla y mantenerla.
 
-**Condición de Victoria:**
-- Mantener la colina más rondas, o mantenerla al final del juego.
+#### Condición de Victoria
+Mantener la colina más rondas, o mantenerla al final del juego.
 
-**Variantes:**
+#### Variantes
 - Colina rotativa qué se mueve cada ronda
 - Colina peligrosa que daña unidades dentro
 - Racha ininterrumpida gana al instante

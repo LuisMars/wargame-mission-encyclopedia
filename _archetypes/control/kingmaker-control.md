@@ -28,14 +28,14 @@ tags: [contact-high, rules-med, snowball-med, mid, multiplayer]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A high-value hotspot moves across the battlefield.
-- Multiple players compete for control, with the leader becoming the target.
+#### Core
+A high-value hotspot moves across the battlefield.
+Multiple players compete for control, with the leader becoming the target.
 
-**Win Condition:**
-- Score the most points from controlling the hotspot.
+#### Win Condition
+Score the most points from controlling the hotspot.
 
-**Variants:**
+#### Variants
 - Hotspot moves each round
 - Leader becomes marked, gaining a bounty
 - Trailing players gain extra options or resources
@@ -44,16 +44,16 @@ tags: [contact-high, rules-med, snowball-med, mid, multiplayer]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Un punto caliente de alto valor se mueve por el campo de batalla.
-- Múltiples jugadores compiten por el control, con el lider convirtiendose en objetivo.
+#### Concepto
+Un punto caliente de alto valor se mueve por el campo de batalla.
+Múltiples jugadores compiten por el control, con el líder convirtiéndose en objetivo.
 
-**Condición de Victoria:**
-- Obtener la mayor puntuación controlando el punto caliente.
+#### Condición de Victoria
+Obtener la mayor puntuación controlando el punto caliente.
 
-**Variantes:**
+#### Variantes
 - El punto caliente se mueve cada ronda
-- El lider queda marcado, ganando una recompensa
+- El líder queda marcado, ganando una recompensa
 - Los jugadores rezagados obtienen opciones o recursos extra
 
 </div>

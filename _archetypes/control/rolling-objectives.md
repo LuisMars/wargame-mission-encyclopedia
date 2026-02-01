@@ -27,14 +27,14 @@ tags: [contact-med, rules-med, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Objective locations or values change each round.
-- Players must constantly reposition to chase the highest-value targets.
+#### Core
+Objective locations or values change each round.
+Players must constantly reposition to chase the highest-value targets.
 
-**Win Condition:**
-- Score the most points across shifting objectives.
+#### Win Condition
+Score the most points across shifting objectives.
 
-**Variants:**
+#### Variants
 - Only some objectives are active each round
 - Objectives deactivate after being scored once
 - New objectives appear as old ones vanish
@@ -44,14 +44,14 @@ tags: [contact-med, rules-med, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Las ubicaciones o valores de los objetivos cambian cada ronda.
-- Los jugadores deben reposicionarse constantemente para perseguir los objetivos de mayor valor.
+#### Concepto
+Las ubicaciones o valores de los objetivos cambian cada ronda.
+Los jugadores deben reposicionarse constantemente para perseguir los objetivos de mayor valor.
 
-**Condición de Victoria:**
-- Obtener la mayor puntuación a través de objetivos cambiantes.
+#### Condición de Victoria
+Obtener la mayor puntuación a través de objetivos cambiantes.
 
-**Variantes:**
+#### Variantes
 - Solo algunos objetivos están activos cada ronda
 - Los objetivos se desactivan después de ser puntuados una vez
 - Nuevos objetivos aparecen cuando los antiguos desaparecen

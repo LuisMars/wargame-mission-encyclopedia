@@ -22,20 +22,20 @@ name:
   es: Capturar y mantener
 summary:
   en: Objectives must be interacted with to flip ownership.
-  es: Los objetivos deben ser interactuados para cambiar de propietario.
+  es: Los objetivos deben ser activados para cambiar de propietario.
 tags: [contact-high, rules-med, snowball-low, mid]
 ---
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Objectives exist on the battlefield but must be interacted with to claim.
-- Once claimed, the objective belongs to you until the enemy flips it.
+#### Core
+Objectives exist on the battlefield but must be interacted with to claim.
+Once claimed, the objective belongs to you until the enemy flips it.
 
-**Win Condition:**
-- Hold flipped objectives at scoring time.
+#### Win Condition
+Hold flipped objectives at scoring time.
 
-**Variants:**
+#### Variants
 - Flipping takes multiple rounds
 - Objectives can be sabotaged to disable them
 - Flipped ownership persists between rounds
@@ -44,14 +44,14 @@ tags: [contact-high, rules-med, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Los objetivos existen en el campo de batalla pero deben ser interactuados para reclamarlos.
-- Una vez reclamado, el objetivo te pertenece hasta qué el enemigo lo voltee.
+#### Concepto
+Los objetivos existen en el campo de batalla pero deben ser activados para reclamarlos.
+Una vez reclamado, el objetivo te pertenece hasta qué el enemigo lo voltee.
 
-**Condición de Victoria:**
-- Mantener objetivos volteados en el momento de puntuar.
+#### Condición de Victoria
+Mantener objetivos volteados en el momento de puntuar.
 
-**Variantes:**
+#### Variantes
 - Voltear toma múltiples rondas
 - Los objetivos pueden ser saboteados para desactivarlos
 - La propiedad volteada persiste entre rondas

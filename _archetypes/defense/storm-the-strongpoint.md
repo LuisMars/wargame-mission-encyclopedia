@@ -28,14 +28,14 @@ tags: [contact-high, rules-med, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A fortified strongpoint must be taken by the attacker.
-- The defender has cover, fortifications, and defensive advantages.
+#### Core
+A fortified strongpoint must be taken by the attacker.
+The defender has cover, fortifications, and defensive advantages.
 
-**Win Condition:**
-- Attacker wins by controlling the strongpoint; defender wins by holding until time expires.
+#### Win Condition
+Attacker wins by controlling the strongpoint; defender wins by holding until time expires.
 
-**Variants:**
+#### Variants
 - Multi-layer fortifications that must be taken in sequence
 - Internal objectives behind the strongpoint walls
 - Timer before defender reinforcements arrive
@@ -44,14 +44,14 @@ tags: [contact-high, rules-med, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Una posición fortificada debe ser tomada por el atacante.
-- El defensor tiene cobertura, fortificaciones y ventajas defensivas.
+#### Concepto
+Una posición fortificada debe ser tomada por el atacante.
+El defensor tiene cobertura, fortificaciones y ventajas defensivas.
 
-**Condición de Victoria:**
-- El atacante gana controlando la posición; el defensor gana manteniendola hasta que expire el tiempo.
+#### Condición de Victoria
+El atacante gana controlando la posición; el defensor gana manteniendola hasta que expire el tiempo.
 
-**Variantes:**
+#### Variantes
 - Fortificaciones de múltiples capas que deben tomarse en secuencia
 - Objetivos internos detrás de los muros de la posición
 - Temporizador antes de que lleguen refuerzos del defensor

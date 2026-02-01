@@ -27,13 +27,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Transport contraband to a drop zone on the far side of the battlefield while the opponent tries to intercept.
+#### Core
+Transport contraband to a drop zone on the far side of the battlefield while the opponent tries to intercept.
 
-**Win Condition:**
-- Successfully deliver the contraband.
+#### Win Condition
+Successfully deliver the contraband.
 
-**Variants:**
+#### Variants
 - Checkpoints along the route grant partial credit
 - Contraband attracts enemy patrols
 - Contraband cannot be dropped once picked up
@@ -42,13 +42,13 @@ tags: [contact-med, rules-med, asymmetric, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Transporta contrabando a una zona de entrega en el lado opuesto del campo de batalla mientras el oponente intenta interceptar.
+#### Concepto
+Transporta contrabando a una zona de entrega en el lado opuesto del campo de batalla mientras el oponente intenta interceptar.
 
-**Condición de Victoria:**
-- Entregar el contrabando exitosamente.
+#### Condición de Victoria
+Entregar el contrabando exitosamente.
 
-**Variantes:**
+#### Variantes
 - Puntos de control a lo largo de la ruta otorgan credito parcial
 - El contrabando atrae patrullas enemigas
 - El contrabando no puede soltarse una vez recogido

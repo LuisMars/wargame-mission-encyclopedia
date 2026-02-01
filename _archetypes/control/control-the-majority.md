@@ -28,14 +28,14 @@ tags: [contact-high, rules-light, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Multiple markers or zones exist on the battlefield.
-- Both players compete for ownership of as many as possible.
+#### Core
+Multiple markers or zones exist on the battlefield.
+Both players compete for ownership of as many as possible.
 
-**Win Condition:**
-- Control more markers or zones than the opponent at scoring time.
+#### Win Condition
+Control more markers or zones than the opponent at scoring time.
 
-**Variants:**
+#### Variants
 - Endgame-only majority scoring
 - Progressive scoring each round
 - Weighted center objective worth more
@@ -45,14 +45,14 @@ tags: [contact-high, rules-light, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Existen múltiples marcadores o zonas en el campo de batalla.
-- Ambos jugadores compiten por el control de tantos cómo sea posible.
+#### Concepto
+Existen múltiples marcadores o zonas en el campo de batalla.
+Ambos jugadores compiten por el control de tantos como sea posible.
 
-**Condición de Victoria:**
-- Controlar más marcadores o zonas qué el oponente en el momento de puntuar.
+#### Condición de Victoria
+Controlar más marcadores o zonas qué el oponente en el momento de puntuar.
 
-**Variantes:**
+#### Variantes
 - Puntuación de mayoria solo al final
 - Puntuación progresiva cada ronda
 - Objetivo central ponderado vale más

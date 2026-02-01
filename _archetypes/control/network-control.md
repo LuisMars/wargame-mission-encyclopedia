@@ -27,14 +27,14 @@ tags: [contact-med, rules-heavy, snowball-med, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Objectives form a network or graph on the battlefield.
-- Scoring depends on connectivity between nodes you control.
+#### Core
+Objectives form a network or graph on the battlefield.
+Scoring depends on connectivity between nodes you control.
 
-**Win Condition:**
-- Score for nodes connected to your home base or relay point.
+#### Win Condition
+Score for nodes connected to your home base or relay point.
 
-**Variants:**
+#### Variants
 - Cutting links denies scoring for the opponent
 - Links can be repaired
 - Enemy can hack nodes to flip links
@@ -43,14 +43,14 @@ tags: [contact-med, rules-heavy, snowball-med, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Los objetivos forman una red o grafo en el campo de batalla.
-- La puntuación depende de la conectividad entre los nodos que controlas.
+#### Concepto
+Los objetivos forman una red o grafo en el campo de batalla.
+La puntuación depende de la conectividad entre los nodos que controlas.
 
-**Condición de Victoria:**
-- Puntuar por nodos conectados a tu base o punto de retransmisión.
+#### Condición de Victoria
+Puntuar por nodos conectados a tu base o punto de retransmisión.
 
-**Variantes:**
+#### Variantes
 - Cortar enlaces niega la puntuación al oponente
 - Los enlaces pueden ser reparados
 - El enemigo puede hackear nodos para invertir los enlaces

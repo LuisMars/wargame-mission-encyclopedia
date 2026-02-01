@@ -27,14 +27,14 @@ tags: [contact-med, rules-light, snowball-med, fast]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Both players race to reach checkpoints in a set order.
-- Speed and route choice are critical.
+#### Core
+Both players race to reach checkpoints in a set order.
+Speed and route choice are critical.
 
-**Win Condition:**
-- First to complete the route wins.
+#### Win Condition
+First to complete the route wins.
 
-**Variants:**
+#### Variants
 - Checkpoints contested and can be denied
 - Shortcuts exist but carry risk
 - Players can place obstacles to slow their opponent
@@ -43,14 +43,14 @@ tags: [contact-med, rules-light, snowball-med, fast]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Ambos jugadores corren para alcanzar puntos de control en un orden establecido.
-- La velocidad y la elección de ruta son críticas.
+#### Concepto
+Ambos jugadores corren para alcanzar puntos de control en un orden establecido.
+La velocidad y la elección de ruta son críticas.
 
-**Condición de Victoria:**
-- El primero en completar la ruta gana.
+#### Condición de Victoria
+El primero en completar la ruta gana.
 
-**Variantes:**
+#### Variantes
 - Los puntos de control pueden ser disputados y denegados
 - Existen atajos pero conllevan riesgos
 - Los jugadores pueden colocar obstáculos para frenar a su oponente

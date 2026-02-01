@@ -27,14 +27,14 @@ tags: [contact-med, rules-med, asymmetric, fast, timed]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Bombs have been planted at hidden locations across the battlefield.
-- The defender must locate and defuse them before timers expire.
+#### Core
+Bombs have been planted at hidden locations across the battlefield.
+The defender must locate and defuse them before timers expire.
 
-**Win Condition:**
-- Defuser wins by disarming enough bombs; bomber wins if enough detonate.
+#### Win Condition
+Defuser wins by disarming enough bombs; bomber wins if enough detonate.
 
-**Variants:**
+#### Variants
 - Bombs have different fuse lengths
 - Decoy bombs waste defusal time
 - The bomber can re-arm defused bombs
@@ -44,16 +44,16 @@ tags: [contact-med, rules-med, asymmetric, fast, timed]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Se han colocado bombas en ubicaciones ocultas por el campo de batalla.
-- El defensor debe localizarlas y desactivarlas antes de que expiren los temporizadores.
+#### Concepto
+Se han colocado bombas en ubicaciones ocultas por el campo de batalla.
+El defensor debe localizarlas y desactivarlas antes de que expiren los temporizadores.
 
-**Condición de Victoria:**
-- El desactivador gana desarmando suficientes bombas; el bombardero gana si suficientes detonan.
+#### Condición de Victoria
+El desactivador gana desarmando suficientes bombas; el bombardero gana si suficientes detonan.
 
-**Variantes:**
+#### Variantes
 - Las bombas tienen diferentes duraciones de mecha
-- Las bombas senuelo desperdician tiempo de desactivación
+- Las bombas señuelo desperdician tiempo de desactivación
 - El bombardero puede rearmar bombas desactivadas
 - La desactivación requiere una unidad especialista
 

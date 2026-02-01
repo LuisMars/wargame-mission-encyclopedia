@@ -27,14 +27,14 @@ tags: [contact-med, rules-heavy, snowball-low, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Civilians are present on the battlefield.
-- Players earn influence by interacting positively and avoiding collateral damage.
+#### Core
+Civilians are present on the battlefield.
+Players earn influence by interacting positively and avoiding collateral damage.
 
-**Win Condition:**
-- Most influence points accumulated.
+#### Win Condition
+Most influence points accumulated.
 
-**Variants:**
+#### Variants
 - Penalties for harming civilians
 - Civilians drift toward the safest areas
 - Propaganda actions boost influence
@@ -43,14 +43,14 @@ tags: [contact-med, rules-heavy, snowball-low, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Los civiles están presentes en el campo de batalla.
-- Los jugadores ganan influencia interactuando positivamente y evitando daños colaterales.
+#### Concepto
+Los civiles están presentes en el campo de batalla.
+Los jugadores ganan influencia interactuando positivamente y evitando daños colaterales.
 
-**Condición de Victoria:**
-- Mayor cantidad de puntos de influencia acumulados.
+#### Condición de Victoria
+Mayor cantidad de puntos de influencia acumulados.
 
-**Variantes:**
+#### Variantes
 - Penalizaciones por danar civiles
 - Los civiles se desplazan hacia las áreas más seguras
 - Las acciones de propaganda aumentan la influencia

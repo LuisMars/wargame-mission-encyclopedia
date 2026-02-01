@@ -27,13 +27,13 @@ tags: [contact-high, rules-med, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- A single relic sits at the center of the battlefield; both sides fight to hold or extract it.
+#### Core
+A single relic sits at the center of the battlefield; both sides fight to hold or extract it.
 
-**Win Condition:**
-- Hold the relic at the end of the game or extract it to your side.
+#### Win Condition
+Hold the relic at the end of the game or extract it to your side.
 
-**Variants:**
+#### Variants
 - The relic is heavy and slows the carrier
 - The relic emits a hazard to nearby models
 - The relic reveals the carrier's position
@@ -43,13 +43,13 @@ tags: [contact-high, rules-med, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Una única reliquia se encuentra en el centro del campo de batalla; ambos bandos luchan por mantenerla o extraerla.
+#### Concepto
+Una única reliquia se encuentra en el centro del campo de batalla; ambos bandos luchan por mantenerla o extraerla.
 
-**Condición de Victoria:**
-- Mantener la reliquia al final de la partida o extraerla a tu lado.
+#### Condición de Victoria
+Mantener la reliquia al final de la partida o extraerla a tu lado.
 
-**Variantes:**
+#### Variantes
 - La reliquia es pesada y ralentiza al portador
 - La reliquia emite un peligro a modelos cercanos
 - La reliquia revela la posición del portador

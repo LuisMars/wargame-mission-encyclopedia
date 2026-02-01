@@ -27,14 +27,14 @@ tags: [contact-low, rules-heavy, asymmetric, slow]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- One player moves hidden (using a private map or blips).
-- The other player searches using detection mechanics.
+#### Core
+One player moves hidden (using a private map or blips).
+The other player searches using detection mechanics.
 
-**Win Condition:**
-- Hunter wins by finding and eliminating the target; target wins by escaping.
+#### Win Condition
+Hunter wins by finding and eliminating the target; target wins by escaping.
 
-**Variants:**
+#### Variants
 - Decoy blips confuse the hunter
 - Limited reveal actions per turn
 - Noise rules give away position after shooting
@@ -44,15 +44,15 @@ tags: [contact-low, rules-heavy, asymmetric, slow]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Un jugador se mueve oculto (usando un mapa privado o marcadores).
-- El otro jugador busca usando mecanicas de detección.
+#### Concepto
+Un jugador se mueve oculto (usando un mapa privado o marcadores).
+El otro jugador busca usando mecanicas de detección.
 
-**Condición de Victoria:**
-- El cazador gana encontrando y eliminando al objetivo; el objetivo gana escapando.
+#### Condición de Victoria
+El cazador gana encontrando y eliminando al objetivo; el objetivo gana escapando.
 
-**Variantes:**
-- Marcadores senuelo confunden al cazador
+#### Variantes
+- Marcadores señuelo confunden al cazador
 - Acciones de revelación limitadas por turno
 - Las reglas de ruido delatan la posición al disparar
 - La presión de tiempo fuerza movimientos arriesgados

@@ -84,6 +84,16 @@
     document.querySelectorAll('.archetype-body [lang]').forEach(function (el) {
       el.style.display = el.getAttribute('lang') === newLang ? 'block' : 'none';
     });
+
+    // Update navigation link hrefs to match the active language
+    var langRoot = newLang === 'en' ? base + '/' : base + '/' + newLang + '/';
+    var navLinks = document.querySelectorAll('.site-logo, .header-breadcrumb a, .footer-families a');
+    navLinks.forEach(function (link) {
+      var href = link.getAttribute('href');
+      var qIndex = href.indexOf('?');
+      var qs = qIndex !== -1 ? href.slice(qIndex) : '';
+      link.setAttribute('href', langRoot + qs);
+    });
   }
 
   // Language dropdown

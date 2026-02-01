@@ -28,14 +28,14 @@ tags: [contact-med, rules-heavy, snowball-low, mid]
 
 <div lang="en" markdown="1">
 
-**Core:**
-- Collect code fragments scattered across the battlefield.
-- Assemble the complete code and use it on a vault or terminal.
+#### Core
+Collect code fragments scattered across the battlefield.
+Assemble the complete code and use it on a vault or terminal.
 
-**Win Condition:**
-- Complete the code and activate the terminal first.
+#### Win Condition
+Complete the code and activate the terminal first.
 
-**Variants:**
+#### Variants
 - Fragments are carried and can be stolen
 - Fragments degrade over time if not used
 - False fragments exist as decoys
@@ -44,16 +44,16 @@ tags: [contact-med, rules-heavy, snowball-low, mid]
 
 <div lang="es" markdown="1">
 
-**Núcleo:**
-- Recopila fragmentos de codigo dispersos por el campo de batalla.
-- Ensambla el codigo completo y usalo en una bóveda o terminal.
+#### Concepto
+Recopila fragmentos de codigo dispersos por el campo de batalla.
+Ensambla el codigo completo y usalo en una bóveda o terminal.
 
-**Condición de Victoria:**
-- Completar el codigo y activar la terminal primero.
+#### Condición de Victoria
+Completar el codigo y activar la terminal primero.
 
-**Variantes:**
+#### Variantes
 - Los fragmentos se transportan y pueden ser robados
 - Los fragmentos se degradan con el tiempo si no se usan
-- Existen fragmentos falsos cómo senuelos
+- Existen fragmentos falsos como señuelos
 
 </div>
